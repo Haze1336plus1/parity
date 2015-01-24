@@ -1,0 +1,2526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MapDetails>
+	<Map ID="50" Name="28th St">
+		<Head>
+			<Channel CQC="false" BG="false" AI="true" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="true" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="1662" Y="0" Z="1380" Team="NIU" />
+			<Flag X="1642" Y="0" Z="2708" Team="Derberan" />
+			<Entity X="3105" Y="344" Z="3430" Code="EA03" Target="FIXED_MINIGUN" SpawnInterval="30000" />
+			<Entity X="3133" Y="354" Z="3498" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3181" Y="343" Z="3356" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3184" Y="343" Z="3774" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3109" Y="343" Z="2983" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3171" Y="343" Z="3533" Code="EN16" Target="FIXED_BRK_INCUBATOR" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="20" Name="Alberon">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2641" Y="-524" Z="2357" Team="Derberan" />
+			<Flag X="4422" Y="-319" Z="5029" Team="NIU" />
+			<Entity X="4583" Y="400" Z="5155" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="4955" Y="400" Z="4936" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="37" Name="Artifact">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2473" Y="128" Z="3876" Team="NIU" />
+			<Flag X="3853" Y="175" Z="3206" Team="Derberan" />
+			<Bomb X="2411" Y="128" Z="3330" />
+			<Bomb X="2985" Y="-3" Z="3169" />
+		</Object>
+	</Map>
+	<Map ID="25" Name="Bandar">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="18609" Y="528" Z="23059" Team="Derberan" />
+			<Flag X="35108" Y="528" Z="24267" Team="NIU" />
+			<Flag X="21020" Y="545" Z="27393" Team="None" />
+			<Flag X="24780" Y="728" Z="24039" Team="None" />
+			<Flag X="31233" Y="736" Z="28420" Team="None" />
+			<Flag X="26560" Y="808" Z="30560" Team="None" />
+			<Flag X="25710" Y="721" Z="27490" Team="None" />
+			<Entity X="18045" Y="410" Z="23299" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="30000" />
+			<Entity X="18532" Y="379" Z="23443" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="18370" Y="377" Z="23754" Code="EM01" Target="BOAT_MKV" SpawnInterval="30000" />
+			<Entity X="17949" Y="410" Z="23223" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="34201" Y="528" Z="26415" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="34351" Y="379" Z="24822" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="34355" Y="378" Z="25223" Code="EM01" Target="BOAT_MKV" SpawnInterval="30000" />
+			<Entity X="18646" Y="578" Z="23734" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="18154" Y="411" Z="23061" Code="EG02" Target="TANK_K200" SpawnInterval="30000" />
+			<Entity X="35200" Y="527" Z="24922" Code="EG02" Target="TANK_K200" SpawnInterval="30000" />
+			<Entity X="26686" Y="1068" Z="28469" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="26561" Y="808" Z="30490" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="26813" Y="381" Z="30107" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="26485" Y="381" Z="30124" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="21382" Y="537" Z="27199" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="21258" Y="534" Z="27720" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="22088" Y="575" Z="27634" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="24817" Y="972" Z="26127" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="24386" Y="972" Z="26552" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="35395" Y="528" Z="24920" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="30000" />
+			<Entity X="34351" Y="527" Z="24488" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="34542" Y="527" Z="24488" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="18604" Y="528" Z="22902" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="31524" Y="528" Z="28146" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="24210" Y="728" Z="23400" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="30686" Y="527" Z="28137" Code="ED05" Target="CAR_LUCHS" SpawnInterval="30000" />
+			<Entity X="26607" Y="762" Z="23288" Code="EF04" Target="TANK_WIESEL_GUN" SpawnInterval="30000" />
+			<Entity X="26483" Y="762" Z="23219" Code="EF04" Target="TANK_WIESEL_GUN" SpawnInterval="30000" />
+			<Entity X="25470" Y="654" Z="27869" Code="EM01" Target="BOAT_MKV" SpawnInterval="30000" />
+			<Entity X="26536" Y="1030" Z="28509" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="31628" Y="528" Z="28066" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="59" Name="BanishGarden">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="true" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4099" Y="252" Z="2967" Team="Derberan" />
+			<Flag X="1900" Y="252" Z="2966" Team="NIU" />
+		</Object>
+	</Map>
+	<Map ID="56" Name="Bazaar">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="1890" Y="9" Z="4255" Team="NIU" />
+			<Flag X="4718" Y="64" Z="2687" Team="Derberan" />
+			<Bomb X="2920" Y="6" Z="3027" />
+			<Bomb X="3610" Y="165" Z="3648" />
+		</Object>
+	</Map>
+	<Map ID="33" Name="Beringia">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3107" Y="341" Z="1699" Team="Derberan" />
+			<Flag X="3098" Y="391" Z="4423" Team="NIU" />
+			<Bomb X="3066" Y="420" Z="3672" />
+			<Bomb X="4089" Y="547" Z="3793" />
+		</Object>
+	</Map>
+	<Map ID="53" Name="BioLab">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4425" Y="288" Z="3468" Team="Derberan" />
+			<Flag X="2589" Y="285" Z="5342" Team="NIU" />
+			<Bomb X="3528" Y="322" Z="4130" />
+			<Bomb X="3470" Y="323" Z="4656" />
+		</Object>
+	</Map>
+	<Map ID="46" Name="BlindBullet">
+		<Head>
+			<Channel CQC="false" BG="false" AI="true" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="true" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3915" Y="0" Z="4715" Team="Derberan" />
+			<Flag X="3984" Y="0" Z="3153" Team="NIU" />
+			<Entity X="3810" Y="104" Z="3791" Code="EA03" Target="FIXED_MINIGUN" SpawnInterval="30000" />
+			<Entity X="3866" Y="104" Z="4167" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3693" Y="104" Z="4484" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3517" Y="104" Z="3979" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="4070" Y="104" Z="3804" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3662" Y="104" Z="3887" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3447" Y="104" Z="4287" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="4006" Y="104" Z="4484" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="4154" Y="172" Z="4200" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="4170" Y="104" Z="3982" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3865" Y="104" Z="3716" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="4100" Y="104" Z="3776" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="4098" Y="191" Z="3736" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="22" Name="Bloc">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2806" Y="77" Z="3831" Team="NIU" />
+			<Flag X="2852" Y="-67" Z="1095" Team="Derberan" />
+			<Bomb X="2823" Y="615" Z="2852" />
+			<Bomb X="2848" Y="282" Z="2610" />
+		</Object>
+	</Map>
+	<Map ID="60" Name="BlocHalloween">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="true" Experience="1,1" />
+		</Head>
+		<Object>
+			<Flag X="2804" Y="59" Z="3826" Team="NIU" />
+			<Flag X="2829" Y="-54" Z="1105" Team="Derberan" />
+			<Bomb X="2793" Y="621" Z="2859" />
+			<Bomb X="2860" Y="282" Z="2607" />
+		</Object>
+	</Map>
+	<Map ID="32" Name="BlueStorm">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="true" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4506" Y="260" Z="3973" Team="Derberan" />
+			<Flag X="2470" Y="371" Z="4792" Team="NIU" />
+		</Object>
+	</Map>
+	<Map ID="47" Name="BrokenSunset">
+		<Head>
+			<Channel CQC="false" BG="false" AI="true" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="true" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3298" Y="0" Z="4921" Team="NIU" />
+			<Flag X="2237" Y="0" Z="1684" Team="Derberan" />
+			<Entity X="3305" Y="485" Z="2586" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3120" Y="485" Z="2852" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3234" Y="485" Z="3448" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3118" Y="485" Z="3181" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3142" Y="485" Z="3070" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3057" Y="619" Z="3204" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="69" Name="ByWay">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="true" Event="true" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2701" Y="131" Z="3205" Team="NIU" />
+			<Flag X="4678" Y="131" Z="3482" Team="Derberan" />
+			<Bomb X="3986" Y="50" Z="3975" />
+			<Bomb X="3111" Y="131" Z="2811" />
+		</Object>
+	</Map>
+	<Map ID="13" Name="Cadoro">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4862" Y="235" Z="4085" Team="Derberan" />
+			<Flag X="2078" Y="255" Z="2512" Team="NIU" />
+			<Bomb X="1935" Y="260" Z="2380" />
+			<Bomb X="2980" Y="260" Z="3743" />
+		</Object>
+	</Map>
+	<Map ID="16" Name="Cantumira">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="9996" Y="66" Z="8034" Team="Derberan" />
+			<Flag X="3822" Y="261" Z="4064" Team="NIU" />
+			<Flag X="9093" Y="66" Z="9325" Team="None" />
+			<Flag X="6677" Y="341" Z="7829" Team="None" />
+			<Flag X="7701" Y="196" Z="6341" Team="None" />
+			<Flag X="6024" Y="196" Z="5942" Team="None" />
+			<Flag X="8932" Y="221" Z="7235" Team="None" />
+			<Entity X="9873" Y="66" Z="8205" Code="EE04" Target="TANK_K1A1" SpawnInterval="40000" />
+			<Entity X="9858" Y="66" Z="7769" Code="ED04" Target="CAR_HUMVEE_AVENGER" SpawnInterval="35000" />
+			<Entity X="9540" Y="69" Z="9437" Code="EJ05" Target="HEL_500MD" SpawnInterval="40000" />
+			<Entity X="3513" Y="261" Z="3796" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="4216" Y="289" Z="2953" Code="EJ05" Target="HEL_500MD" SpawnInterval="45000" />
+			<Entity X="3855" Y="293" Z="3133" Code="EJ06" Target="HEL_BLACKHAWK_MINIGUN" SpawnInterval="60000" />
+			<Entity X="3447" Y="261" Z="3873" Code="EE03" Target="TANK_LECLERC" SpawnInterval="50000" />
+			<Entity X="3281" Y="261" Z="3652" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="40000" />
+			<Entity X="3171" Y="261" Z="3473" Code="ED05" Target="CAR_LUCHS" SpawnInterval="45000" />
+			<Entity X="10050" Y="215" Z="8563" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="4156" Y="321" Z="3663" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="9978" Y="66" Z="8133" Code="ED05" Target="CAR_LUCHS" SpawnInterval="40000" />
+			<Entity X="10563" Y="-13" Z="8858" Code="EL01" Target="BOAT_LSSC" SpawnInterval="45000" />
+			<Entity X="3818" Y="-23" Z="2591" Code="EM01" Target="BOAT_MKV" SpawnInterval="50000" />
+		</Object>
+	</Map>
+	<Map ID="41" Name="CentralSquare">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="11440" Y="50" Z="21456" Team="Derberan" />
+			<Flag X="12894" Y="627" Z="14169" Team="NIU" />
+			<Flag X="14254" Y="50" Z="18934" Team="None" />
+			<Flag X="12869" Y="-194" Z="18787" Team="None" />
+			<Flag X="10998" Y="57" Z="18800" Team="None" />
+			<Flag X="13083" Y="163" Z="19850" Team="None" />
+			<Entity X="12291" Y="-21" Z="14559" Code="ED05" Target="CAR_LUCHS" SpawnInterval="30000" />
+			<Entity X="11687" Y="-105" Z="14059" Code="EM01" Target="BOAT_MKV" SpawnInterval="30000" />
+			<Entity X="12869" Y="217" Z="14263" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="12866" Y="10" Z="17699" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="11762" Y="-91" Z="14345" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="13856" Y="-91" Z="13808" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="13580" Y="-49" Z="13817" Code="ED06" Target="Car_DPV" SpawnInterval="30000" />
+			<Entity X="11860" Y="46" Z="21625" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="13603" Y="-49" Z="14133" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="13603" Y="-49" Z="14031" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="11080" Y="57" Z="18945" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="10978" Y="57" Z="18949" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="14368" Y="50" Z="19108" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="14315" Y="50" Z="19109" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="13079" Y="273" Z="19931" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="13160" Y="163" Z="19955" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="30" Name="Cloud Forest">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="12031" Y="824" Z="3700" Team="NIU" />
+			<Flag X="2335" Y="533" Z="9446" Team="Derberan" />
+			<Flag X="9331" Y="114" Z="5162" Team="None" />
+			<Flag X="5255" Y="386" Z="6037" Team="None" />
+			<Entity X="12107" Y="827" Z="3755" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="12106" Y="828" Z="3647" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="4031" Y="235" Z="9410" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="9497" Y="117" Z="5378" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="30000" />
+			<Entity X="2479" Y="358" Z="9307" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="9343" Y="115" Z="5452" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="9347" Y="118" Z="5306" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="2559" Y="160" Z="9169" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="28" Name="Cold Cave">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="true" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4153" Y="87" Z="2712" Team="Derberan" />
+			<Flag X="2447" Y="9" Z="2365" Team="NIU" />
+		</Object>
+	</Map>
+	<Map ID="11" Name="Conturas">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="41195" Y="9" Z="42316" Team="NIU" />
+			<Flag X="12332" Y="-296" Z="6941" Team="Derberan" />
+			<Flag X="22075" Y="-273" Z="17206" Team="None" />
+			<Flag X="23340" Y="-265" Z="24816" Team="None" />
+			<Flag X="12507" Y="292" Z="21496" Team="None" />
+			<Flag X="28172" Y="-265" Z="26084" Team="None" />
+			<Flag X="29981" Y="-257" Z="33725" Team="None" />
+			<Flag X="39064" Y="428" Z="27425" Team="None" />
+			<Flag X="25450" Y="528" Z="15836" Team="None" />
+			<Flag X="27718" Y="381" Z="34940" Team="None" />
+			<Entity X="25961" Y="-287" Z="26992" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="11801" Y="-308" Z="4783" Code="EK04" Target="AIRPLANE_KF15" SpawnInterval="60000" />
+			<Entity X="10661" Y="-308" Z="5559" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="10588" Y="-310" Z="7425" Code="EJ05" Target="HEL_500MD" SpawnInterval="60000" />
+			<Entity X="13973" Y="-298" Z="6689" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="13649" Y="-298" Z="6161" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="12124" Y="-307" Z="5308" Code="EK04" Target="AIRPLANE_KF15" SpawnInterval="60000" />
+			<Entity X="10939" Y="-308" Z="6010" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="13634" Y="-296" Z="5578" Code="ED04" Target="CAR_HUMVEE_AVENGER" SpawnInterval="50000" />
+			<Entity X="13098" Y="-316" Z="8194" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="50000" />
+			<Entity X="26228" Y="-287" Z="27451" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="25207" Y="-288" Z="23544" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="25488" Y="-288" Z="23993" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="23583" Y="-295" Z="25006" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="39868" Y="10" Z="43708" Code="ED04" Target="CAR_HUMVEE_AVENGER" SpawnInterval="50000" />
+			<Entity X="40352" Y="-10" Z="40903" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="50000" />
+			<Entity X="39506" Y="2" Z="42582" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="39811" Y="2" Z="43120" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="41369" Y="-2" Z="44014" Code="EK04" Target="AIRPLANE_KF15" SpawnInterval="60000" />
+			<Entity X="41660" Y="-1" Z="44509" Code="EK04" Target="AIRPLANE_KF15" SpawnInterval="60000" />
+			<Entity X="42560" Y="-2" Z="43327" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="42817" Y="-2" Z="43770" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="42897" Y="-5" Z="41938" Code="EJ05" Target="HEL_500MD" SpawnInterval="60000" />
+			<Entity X="27911" Y="-295" Z="25907" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="22230" Y="-273" Z="17261" Code="ED04" Target="CAR_HUMVEE_AVENGER" SpawnInterval="50000" />
+			<Entity X="12322" Y="292" Z="21568" Code="ED04" Target="CAR_HUMVEE_AVENGER" SpawnInterval="50000" />
+			<Entity X="39165" Y="428" Z="27258" Code="ED04" Target="CAR_HUMVEE_AVENGER" SpawnInterval="50000" />
+			<Entity X="29823" Y="-257" Z="33689" Code="ED04" Target="CAR_HUMVEE_AVENGER" SpawnInterval="50000" />
+			<Entity X="11382" Y="-298" Z="7722" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="12253" Y="-298" Z="8179" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="12965" Y="-298" Z="9323" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="14432" Y="-298" Z="8125" Code="EK04" Target="AIRPLANE_KF15" SpawnInterval="30000" />
+			<Entity X="41299" Y="2" Z="41120" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="40558" Y="2" Z="39893" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="42170" Y="2" Z="41519" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="39091" Y="2" Z="41109" Code="EK04" Target="AIRPLANE_KF15" SpawnInterval="60000" />
+			<Entity X="25426" Y="528" Z="16261" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="27753" Y="381" Z="34581" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+		</Object>
+	</Map>
+	<Map ID="31" Name="Crater">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="23690" Y="-565" Z="23567" Team="NIU" />
+			<Flag X="24911" Y="-114" Z="37143" Team="None" />
+			<Flag X="22142" Y="228" Z="39531" Team="None" />
+			<Flag X="25524" Y="437" Z="31460" Team="None" />
+			<Flag X="30280" Y="572" Z="40148" Team="None" />
+			<Flag X="15876" Y="289" Z="43217" Team="Derberan" />
+			<Flag X="18184" Y="20" Z="35373" Team="None" />
+			<Flag X="28854" Y="-182" Z="35652" Team="None" />
+			<Entity X="27122" Y="-179" Z="37884" Code="EJ06" Target="HEL_BLACKHAWK_MINIGUN" SpawnInterval="30000" />
+			<Entity X="30021" Y="592" Z="40096" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="25052" Y="435" Z="30446" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="25599" Y="379" Z="31900" Code="EE03" Target="TANK_LECLERC" SpawnInterval="30000" />
+			<Entity X="25602" Y="380" Z="32092" Code="ED05" Target="CAR_LUCHS" SpawnInterval="30000" />
+			<Entity X="25152" Y="-476" Z="38145" Code="ED06" Target="Car_DPV" SpawnInterval="30000" />
+			<Entity X="25531" Y="516" Z="32162" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="28930" Y="-185" Z="35571" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="18299" Y="-47" Z="35309" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="18332" Y="-47" Z="35355" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="24279" Y="-577" Z="23702" Code="ED06" Target="Car_DPV" SpawnInterval="30000" />
+			<Entity X="23543" Y="-566" Z="23540" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="24612" Y="-607" Z="23869" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="24841" Y="-702" Z="23149" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="24546" Y="-593" Z="25377" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="18952" Y="243" Z="43320" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="21404" Y="12" Z="36893" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="30000" />
+			<Entity X="16192" Y="281" Z="42845" Code="EI02" Target="TANK_CHUNMA" SpawnInterval="30000" />
+			<Entity X="17943" Y="346" Z="42903" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="17862" Y="847" Z="40666" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="22829" Y="-771" Z="23638" Code="EJ04" Target="Hel_Hind" SpawnInterval="30000" />
+			<Entity X="24089" Y="-577" Z="23705" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="23840" Y="-568" Z="23539" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="16489" Y="284" Z="42973" Code="ED06" Target="Car_DPV" SpawnInterval="30000" />
+			<Entity X="17858" Y="845" Z="40433" Code="EE04" Target="TANK_K1A1" SpawnInterval="30000" />
+			<Entity X="15859" Y="289" Z="42946" Code="EE02" Target="TANK_LEOPARD" SpawnInterval="30000" />
+			<Entity X="21601" Y="-20" Z="37821" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="22091" Y="164" Z="39485" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="28921" Y="-253" Z="35603" Code="EF04" Target="TANK_WIESEL_GUN" SpawnInterval="30000" />
+			<Entity X="30235" Y="585" Z="40059" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="17862" Y="847" Z="40596" Code="EI02" Target="TANK_CHUNMA" SpawnInterval="30000" />
+			<Entity X="25185" Y="-769" Z="24498" Code="EJ07" Target="HEL_BLACKHAWK_MISSILE" SpawnInterval="30000" />
+			<Entity X="17638" Y="580" Z="43880" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="22877" Y="-623" Z="22705" Code="EK04" Target="AIRPLANE_KF15" SpawnInterval="30000" />
+			<Entity X="17120" Y="368" Z="43744" Code="EJ06" Target="HEL_BLACKHAWK_MINIGUN" SpawnInterval="30000" />
+			<Entity X="15980" Y="288" Z="42844" Code="EE04" Target="TANK_K1A1" SpawnInterval="30000" />
+			<Entity X="16578" Y="287" Z="42960" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="35" Name="Darkglow">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="true" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3200" Y="-460" Z="2180" Team="Derberan" />
+			<Flag X="3200" Y="-460" Z="4030" Team="NIU" />
+		</Object>
+	</Map>
+	<Map ID="45" Name="DayLight">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="true" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="8452" Y="1600" Z="13276" Team="NIU" />
+			<Flag X="14320" Y="1599" Z="13834" Team="Derberan" />
+			<Flag X="9290" Y="1600" Z="13857" Team="None" />
+			<Flag X="13539" Y="1600" Z="13239" Team="None" />
+			<Entity X="11345" Y="1600" Z="13470" Code="EG02" Target="TANK_K200" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="48" Name="DayOne">
+		<Head>
+			<Channel CQC="false" BG="false" AI="true" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="true" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="1962" Y="171" Z="3008" Team="Derberan" />
+			<Flag X="3523" Y="336" Z="3779" Team="NIU" />
+			<Entity X="2455" Y="110" Z="2997" Code="EA03" Target="FIXED_MINIGUN" SpawnInterval="30000" />
+			<Entity X="2673" Y="69" Z="3108" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="2747" Y="62" Z="3537" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3176" Y="60" Z="3604" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="2700" Y="69" Z="3100" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="2571" Y="62" Z="3636" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3447" Y="104" Z="4287" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="2817" Y="62" Z="3505" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3204" Y="70" Z="3180" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3528" Y="70" Z="2967" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="3689" Y="103" Z="3583" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="4191" Y="60" Z="2855" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="2706" Y="69" Z="3109" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="61" Name="DeathHill">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="true" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="9364" Y="482" Z="2242" Team="Derberan" />
+			<Flag X="2674" Y="231" Z="9372" Team="NIU" />
+			<Flag X="4021" Y="238" Z="7945" Team="None" />
+			<Flag X="8870" Y="217" Z="4059" Team="None" />
+			<Flag X="8554" Y="663" Z="8391" Team="None" />
+			<Flag X="6126" Y="189" Z="7877" Team="None" />
+			<Flag X="7856" Y="190" Z="5734" Team="None" />
+			<Flag X="4006" Y="764" Z="3898" Team="None" />
+			<Entity X="9424" Y="0" Z="2768" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="2198" Y="2" Z="9539" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="2268" Y="2" Z="9226" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="2573" Y="2" Z="9375" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="3022" Y="2" Z="9711" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="3254" Y="2" Z="9202" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="9418" Y="0" Z="2142" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="8600" Y="10" Z="2176" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="9418" Y="0" Z="2268" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="9024" Y="0" Z="2932" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="4158" Y="570" Z="3998" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="30000" />
+			<Entity X="4237" Y="570" Z="3853" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="4021" Y="571" Z="4068" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="39" Name="Decay">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3220" Y="253" Z="1709" Team="Derberan" />
+			<Flag X="3549" Y="414" Z="3719" Team="NIU" />
+			<Bomb X="3659" Y="128" Z="2971" />
+			<Bomb X="2676" Y="6" Z="3497" />
+		</Object>
+	</Map>
+	<Map ID="62" Name="Denkmal">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="true" Event="false" Experience="1,1" />
+		</Head>
+		<Object>
+			<Flag X="2923" Y="50" Z="4700" Team="Derberan" />
+			<Flag X="3092" Y="371" Z="2048" Team="NIU" />
+			<Bomb X="2686" Y="13" Z="3178" />
+			<Bomb X="4090" Y="65" Z="2498" />
+		</Object>
+	</Map>
+	<Map ID="36" Name="Disturm">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="8541" Y="-428" Z="9024" Team="NIU" />
+			<Flag X="12326" Y="-269" Z="12021" Team="None" />
+			<Flag X="12095" Y="-418" Z="9500" Team="None" />
+			<Flag X="10500" Y="-472" Z="11148" Team="None" />
+			<Flag X="15585" Y="-358" Z="14015" Team="None" />
+			<Flag X="14057" Y="-417" Z="12119" Team="None" />
+			<Flag X="14732" Y="-512" Z="9668" Team="None" />
+			<Flag X="10850" Y="-479" Z="15117" Team="None" />
+			<Flag X="16834" Y="-150" Z="15398" Team="Derberan" />
+			<Entity X="10001" Y="-364" Z="6363" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="30000" />
+			<Entity X="8447" Y="-409" Z="8698" Code="ED05" Target="CAR_LUCHS" SpawnInterval="30000" />
+			<Entity X="15711" Y="-357" Z="14289" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="40000" />
+			<Entity X="16289" Y="-561" Z="14426" Code="EM01" Target="BOAT_MKV" SpawnInterval="30000" />
+			<Entity X="17033" Y="-542" Z="13470" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="12257" Y="-548" Z="8346" Code="EM01" Target="BOAT_MKV" SpawnInterval="50000" />
+			<Entity X="8807" Y="-554" Z="9755" Code="EM01" Target="BOAT_MKV" SpawnInterval="30000" />
+			<Entity X="8455" Y="-428" Z="8850" Code="EE03" Target="TANK_LECLERC" SpawnInterval="50000" />
+			<Entity X="17529" Y="-186" Z="15345" Code="ED05" Target="CAR_LUCHS" SpawnInterval="40000" />
+			<Entity X="16042" Y="-305" Z="14142" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="45000" />
+			<Entity X="13160" Y="-541" Z="12954" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="8651" Y="-449" Z="9330" Code="EB04" Target="FIXED_SG" SpawnInterval="45000" />
+			<Entity X="8355" Y="-428" Z="9143" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="11250" Y="-417" Z="11450" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="14769" Y="-513" Z="10076" Code="EB04" Target="FIXED_SG" SpawnInterval="40000" />
+			<Entity X="15743" Y="-429" Z="9263" Code="EE03" Target="TANK_LECLERC" SpawnInterval="40000" />
+			<Entity X="14977" Y="-357" Z="13860" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="17332" Y="-197" Z="14546" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="8351" Y="-428" Z="9052" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="10782" Y="-610" Z="17400" Code="EL03" Target="BOAT_HAMINA" SpawnInterval="90000" />
+			<Entity X="16362" Y="-186" Z="15789" Code="EE04" Target="TANK_K1A1" SpawnInterval="50000" />
+			<Entity X="18050" Y="-186" Z="15686" Code="EK02" Target="AIRPLANE_RAFALE" SpawnInterval="60000" />
+			<Entity X="12095" Y="-416" Z="9522" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="45000" />
+			<Entity X="13769" Y="-419" Z="12441" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="45000" />
+			<Entity X="12261" Y="-419" Z="12103" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="60000" />
+			<Entity X="10583" Y="-473" Z="11085" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="45000" />
+			<Entity X="14077" Y="-422" Z="12067" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="45000" />
+			<Entity X="11908" Y="-397" Z="10719" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="60000" />
+			<Entity X="10789" Y="122" Z="14888" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="12946" Y="-419" Z="11059" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="45000" />
+			<Entity X="15515" Y="-354" Z="13328" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="45000" />
+			<Entity X="15454" Y="-141" Z="15795" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="9599" Y="-357" Z="10267" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="15329" Y="-426" Z="9060" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="10462" Y="-472" Z="11336" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="15984" Y="-305" Z="14821" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="12585" Y="-218" Z="11768" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="10779" Y="-479" Z="15310" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="44" Name="Dotonbori">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4033" Y="177" Z="6706" Team="NIU" />
+			<Flag X="7585" Y="106" Z="6513" Team="Derberan" />
+			<Bomb X="4644" Y="200" Z="5909" />
+			<Bomb X="5743" Y="192" Z="8133" />
+		</Object>
+	</Map>
+	<Map ID="70" Name="DuskValley">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="true" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="true" Event="true" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3653" Y="-1521" Z="47926" Team="NIU" />
+			<Flag X="48154" Y="-1745" Z="2973" Team="Derberan" />
+			<Entity X="47510" Y="-1758" Z="4533" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="45793" Y="-1758" Z="2859" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="4007" Y="-1443" Z="46484" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="5070" Y="-1443" Z="47541" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="2" Name="Emblem">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="8366" Y="-579" Z="8250" Team="Derberan" />
+			<Flag X="4539" Y="-577" Z="3723" Team="NIU" />
+			<Flag X="6492" Y="-704" Z="6165" Team="None" />
+			<Flag X="7709" Y="-711" Z="6213" Team="None" />
+			<Flag X="5248" Y="-711" Z="5800" Team="None" />
+			<Entity X="7983" Y="-578" Z="8562" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="4918" Y="-576" Z="3434" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="8328" Y="-579" Z="8441" Code="EF04" Target="TANK_WIESEL_GUN" SpawnInterval="60000" />
+			<Entity X="8785" Y="-578" Z="7985" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="4139" Y="-576" Z="4054" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="4544" Y="-577" Z="3539" Code="EF04" Target="TANK_WIESEL_GUN" SpawnInterval="60000" />
+			<Entity X="6523" Y="-704" Z="5688" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="4313" Y="-577" Z="3718" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="8560" Y="-579" Z="8267" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="5375" Y="-485" Z="4357" Code="EA01" Target="FIXED_CAL50" SpawnInterval="60000" />
+			<Entity X="4900" Y="-485" Z="4720" Code="EA01" Target="FIXED_CAL50" SpawnInterval="60000" />
+			<Entity X="8051" Y="-487" Z="7273" Code="EA01" Target="FIXED_CAL50" SpawnInterval="60000" />
+			<Entity X="7562" Y="-487" Z="7616" Code="EA01" Target="FIXED_CAL50" SpawnInterval="60000" />
+		</Object>
+	</Map>
+	<Map ID="7" Name="Engrene">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="21320" Y="-532" Z="18267" Team="Derberan" />
+			<Flag X="16588" Y="-945" Z="15726" Team="None" />
+			<Flag X="12455" Y="-951" Z="14841" Team="None" />
+			<Flag X="12552" Y="-947" Z="10820" Team="None" />
+			<Flag X="8505" Y="-945" Z="10120" Team="None" />
+			<Flag X="3498" Y="-604" Z="7485" Team="NIU" />
+			<Flag X="10511" Y="-965" Z="12480" Team="None" />
+			<Flag X="15081" Y="-960" Z="13259" Team="None" />
+			<Flag X="10447" Y="-423" Z="14361" Team="None" />
+			<Flag X="14622" Y="-441" Z="11284" Team="None" />
+			<Flag X="9317" Y="-387" Z="7994" Team="None" />
+			<Flag X="15593" Y="-343" Z="17599" Team="None" />
+			<Entity X="18936" Y="-532" Z="20342" Code="EK01" Target="AIRPLANE_A10" SpawnInterval="60000" />
+			<Entity X="20648" Y="-555" Z="15993" Code="EJ07" Target="HEL_BLACKHAWK_MISSILE" SpawnInterval="60000" />
+			<Entity X="19674" Y="-532" Z="20258" Code="EK01" Target="AIRPLANE_A10" SpawnInterval="60000" />
+			<Entity X="19166" Y="-532" Z="19415" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="20442" Y="-532" Z="18784" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="16115" Y="-965" Z="15256" Code="EI01" Target="TANK_GEPARD" SpawnInterval="90000" />
+			<Entity X="21646" Y="-532" Z="17849" Code="EI01" Target="TANK_GEPARD" SpawnInterval="60000" />
+			<Entity X="12318" Y="-860" Z="14197" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="50000" />
+			<Entity X="20435" Y="-528" Z="19666" Code="EJ08" Target="HEL_CH47_CHINOOK" SpawnInterval="60000" />
+			<Entity X="12420" Y="-856" Z="11398" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="50000" />
+			<Entity X="4395" Y="-601" Z="6202" Code="EJ08" Target="HEL_CH47_CHINOOK" SpawnInterval="60000" />
+			<Entity X="9048" Y="-965" Z="10502" Code="EI01" Target="TANK_GEPARD" SpawnInterval="90000" />
+			<Entity X="4886" Y="-603" Z="5510" Code="EK01" Target="AIRPLANE_A10" SpawnInterval="60000" />
+			<Entity X="5735" Y="-603" Z="5202" Code="EK01" Target="AIRPLANE_A10" SpawnInterval="60000" />
+			<Entity X="4228" Y="-602" Z="9716" Code="EJ07" Target="HEL_BLACKHAWK_MISSILE" SpawnInterval="60000" />
+			<Entity X="5747" Y="-604" Z="6472" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="3117" Y="-604" Z="7899" Code="EI01" Target="TANK_GEPARD" SpawnInterval="60000" />
+			<Entity X="4460" Y="-604" Z="6953" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="21562" Y="-532" Z="18044" Code="EI02" Target="TANK_CHUNMA" SpawnInterval="60000" />
+			<Entity X="3207" Y="-604" Z="7705" Code="EI02" Target="TANK_CHUNMA" SpawnInterval="60000" />
+			<Entity X="21587" Y="-532" Z="17971" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="3193" Y="-604" Z="7765" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="9367" Y="-871" Z="10606" Code="EA01" Target="FIXED_CAL50" SpawnInterval="60000" />
+			<Entity X="15834" Y="-872" Z="15085" Code="EA01" Target="FIXED_CAL50" SpawnInterval="60000" />
+			<Entity X="12313" Y="-951" Z="14533" Code="ED02" Target="CAR_HUMVEE_TOW" SpawnInterval="60000" />
+			<Entity X="3732" Y="-589" Z="6883" Code="EE04" Target="TANK_K1A1" SpawnInterval="60000" />
+			<Entity X="8651" Y="-965" Z="9823" Code="EE04" Target="TANK_K1A1" SpawnInterval="90000" />
+			<Entity X="12522" Y="-947" Z="11086" Code="ED02" Target="CAR_HUMVEE_TOW" SpawnInterval="60000" />
+			<Entity X="16388" Y="-965" Z="16008" Code="EE04" Target="TANK_K1A1" SpawnInterval="90000" />
+			<Entity X="21168" Y="-517" Z="18996" Code="EE04" Target="TANK_K1A1" SpawnInterval="60000" />
+			<Entity X="10820" Y="-965" Z="12586" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="14766" Y="-960" Z="13175" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="14474" Y="-441" Z="11706" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="50000" />
+			<Entity X="10557" Y="-423" Z="13980" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="50000" />
+			<Entity X="20439" Y="-532" Z="17910" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="4412" Y="-604" Z="7956" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="80" Name="Grendel">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="9962" Y="401" Z="14963" Team="Derberan" />
+			<Flag X="18208" Y="86" Z="8968" Team="NIU" />
+			<Flag X="16488" Y="-465" Z="10855" Team="None" />
+			<Flag X="16221" Y="-450" Z="9905" Team="None" />
+			<Flag X="15716" Y="-469" Z="8815" Team="None" />
+			<Flag X="13214" Y="-401" Z="9955" Team="None" />
+			<Flag X="13431" Y="-321" Z="11127" Team="None" />
+			<Flag X="14218" Y="-430" Z="11902" Team="None" />
+			<Flag X="11081" Y="46" Z="13637" Team="None" />
+			<Flag X="14704" Y="-451" Z="9755" Team="None" />
+			<Entity X="14703" Y="-451" Z="9838" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="9644" Y="409" Z="15555" Code="EI02" Target="TANK_CHUNMA" SpawnInterval="30000" />
+			<Entity X="11204" Y="54" Z="13877" Code="EI01" Target="TANK_GEPARD" SpawnInterval="30000" />
+			<Entity X="9411" Y="424" Z="14729" Code="EE04" Target="TANK_K1A1" SpawnInterval="30000" />
+			<Entity X="9018" Y="352" Z="15887" Code="EJ08" Target="HEL_CH47_CHINOOK" SpawnInterval="30000" />
+			<Entity X="9967" Y="410" Z="15098" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="10903" Y="37" Z="13077" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="10065" Y="440" Z="15244" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="8842" Y="355" Z="15635" Code="EJ03" Target="HEL_APACHE" SpawnInterval="30000" />
+			<Entity X="10205" Y="409" Z="15381" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="9345" Y="424" Z="14820" Code="EE04" Target="TANK_K1A1" SpawnInterval="30000" />
+			<Entity X="17700" Y="-86" Z="8645" Code="EI02" Target="TANK_CHUNMA" SpawnInterval="30000" />
+			<Entity X="17919" Y="-86" Z="8634" Code="EE03" Target="TANK_LECLERC" SpawnInterval="30000" />
+			<Entity X="18500" Y="-82" Z="9046" Code="EE02" Target="TANK_LEOPARD" SpawnInterval="30000" />
+			<Entity X="17082" Y="-84" Z="8981" Code="EJ03" Target="HEL_APACHE" SpawnInterval="30000" />
+			<Entity X="18004" Y="-133" Z="9165" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="16214" Y="-463" Z="10761" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="16424" Y="-157" Z="10120" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="13278" Y="-401" Z="9837" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="18483" Y="-71" Z="8692" Code="EJ03" Target="HEL_APACHE" SpawnInterval="30000" />
+			<Entity X="12115" Y="-373" Z="10996" Code="EI01" Target="TANK_GEPARD" SpawnInterval="30000" />
+			<Entity X="10255" Y="409" Z="15329" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="10097" Y="548" Z="15467" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="10" Name="Harbor Elia">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3279" Y="45" Z="3051" Team="None" />
+			<Flag X="2292" Y="130" Z="3842" Team="NIU" />
+			<Flag X="3280" Y="179" Z="3921" Team="None" />
+			<Flag X="3277" Y="179" Z="2177" Team="None" />
+			<Flag X="4267" Y="130" Z="2259" Team="Derberan" />
+		</Object>
+	</Map>
+	<Map ID="1" Name="Harbor Ida">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2326" Y="159" Z="3794" Team="NIU" />
+			<Flag X="4236" Y="159" Z="2137" Team="Derberan" />
+			<Flag X="3153" Y="12" Z="3264" Team="None" />
+			<Flag X="3289" Y="301" Z="2336" Team="None" />
+		</Object>
+	</Map>
+	<Map ID="3" Name="Havana">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="5952" Y="0" Z="7029" Team="None" />
+			<Flag X="4518" Y="7" Z="8125" Team="None" />
+			<Flag X="5026" Y="0" Z="9877" Team="NIU" />
+			<Flag X="7485" Y="0" Z="4623" Team="Derberan" />
+			<Flag X="7626" Y="9" Z="6418" Team="None" />
+			<Flag X="6982" Y="9" Z="8108" Team="None" />
+			<Entity X="7143" Y="0" Z="4344" Code="EE04" Target="TANK_K1A1" SpawnInterval="60000" />
+			<Entity X="4316" Y="0" Z="9616" Code="EE04" Target="TANK_K1A1" SpawnInterval="60000" />
+			<Entity X="5275" Y="0" Z="9767" Code="EG02" Target="TANK_K200" SpawnInterval="60000" />
+			<Entity X="7466" Y="0" Z="4928" Code="EG02" Target="TANK_K200" SpawnInterval="60000" />
+			<Entity X="6600" Y="0" Z="7737" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="5511" Y="0" Z="6864" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="5746" Y="0" Z="8705" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="5854" Y="0" Z="5192" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+		</Object>
+	</Map>
+	<Map ID="57" Name="Jiufen">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="1921" Y="377" Z="3222" Team="Derberan" />
+			<Flag X="4839" Y="25" Z="3138" Team="NIU" />
+		</Object>
+	</Map>
+	<Map ID="68" Name="KalyeDos">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="301" Y="3" Z="1027" Team="NIU" />
+			<Flag X="1515" Y="3" Z="435" Team="Derberan" />
+		</Object>
+	</Map>
+	<Map ID="19" Name="Karaqum">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="1251" Y="1408" Z="4443" Team="NIU" />
+			<Flag X="4501" Y="844" Z="1859" Team="Derberan" />
+			<Bomb X="2440" Y="1435" Z="3229" />
+			<Bomb X="2930" Y="1481" Z="4337" />
+		</Object>
+	</Map>
+	<Map ID="58" Name="Kashgar">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="6729" Y="53" Z="2669" Team="Derberan" />
+			<Flag X="6245" Y="6" Z="11434" Team="NIU" />
+			<Flag X="9266" Y="4" Z="3944" Team="None" />
+			<Flag X="1616" Y="113" Z="7203" Team="None" />
+			<Flag X="8853" Y="29" Z="9957" Team="None" />
+			<Flag X="5475" Y="143" Z="4421" Team="None" />
+			<Flag X="7409" Y="290" Z="8702" Team="None" />
+			<Entity X="5688" Y="0" Z="11220" Code="EG01" Target="TANK_M2A2" SpawnInterval="30000" />
+			<Entity X="6997" Y="44" Z="11956" Code="EE08" Target="TANK_M1A2" SpawnInterval="30000" />
+			<Entity X="4091" Y="-134" Z="10963" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="4760" Y="-145" Z="1908" Code="EL01" Target="BOAT_LSSC" SpawnInterval="30000" />
+			<Entity X="5698" Y="4" Z="11094" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="6273" Y="57" Z="2272" Code="EG02" Target="TANK_K200" SpawnInterval="30000" />
+			<Entity X="7035" Y="9" Z="11232" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="6830" Y="290" Z="8562" Code="EG01" Target="TANK_M2A2" SpawnInterval="30000" />
+			<Entity X="9283" Y="29" Z="10294" Code="EE08" Target="TANK_M1A2" SpawnInterval="30000" />
+			<Entity X="9833" Y="14" Z="4054" Code="EE04" Target="TANK_K1A1" SpawnInterval="30000" />
+			<Entity X="7421" Y="54" Z="2011" Code="EE04" Target="TANK_K1A1" SpawnInterval="30000" />
+			<Entity X="4667" Y="4" Z="11879" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="6401" Y="143" Z="3794" Code="EG02" Target="TANK_K200" SpawnInterval="30000" />
+			<Entity X="7125" Y="292" Z="7257" Code="ED09" Target="CAR_HUMVEE_CUPOLA" SpawnInterval="30000" />
+			<Entity X="8371" Y="51" Z="2447" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="5224" Y="-7" Z="2321" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="7711" Y="51" Z="2443" Code="ED09" Target="CAR_HUMVEE_CUPOLA" SpawnInterval="30000" />
+			<Entity X="2106" Y="271" Z="7193" Code="EJ06" Target="HEL_BLACKHAWK_MINIGUN" SpawnInterval="90000" />
+			<Entity X="5708" Y="108" Z="11469" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="7999" Y="358" Z="2493" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="30000" />
+			<Entity X="6545" Y="422" Z="2373" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="6790" Y="216" Z="11544" Code="EB04" Target="FIXED_SG" SpawnInterval="30000" />
+			<Entity X="6875" Y="51" Z="2508" Code="ED02" Target="CAR_HUMVEE_TOW" SpawnInterval="30000" />
+			<Entity X="8725" Y="11" Z="4166" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="10001" Y="34" Z="9769" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="7466" Y="12" Z="11592" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="7111" Y="51" Z="2816" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="10192" Y="11" Z="3912" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="23" Name="Khali">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3627" Y="942" Z="4845" Team="NIU" />
+			<Flag X="5439" Y="1072" Z="3363" Team="Derberan" />
+			<Bomb X="4664" Y="904" Z="4569" />
+			<Bomb X="3624" Y="941" Z="4698" />
+		</Object>
+	</Map>
+	<Map ID="54" Name="Kharif">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2517" Y="60" Z="3259" Team="NIU" />
+			<Flag X="5145" Y="60" Z="3356" Team="Derberan" />
+			<Bomb X="3612" Y="118" Z="3568" />
+			<Bomb X="3484" Y="59" Z="2545" />
+		</Object>
+	</Map>
+	<Map ID="17" Name="Khyber">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="1874" Y="9" Z="3415" Team="Derberan" />
+			<Flag X="4699" Y="149" Z="2973" Team="NIU" />
+			<Bomb X="4397" Y="117" Z="3643" />
+			<Bomb X="3875" Y="35" Z="2678" />
+		</Object>
+	</Map>
+	<Map ID="51" Name="Lighthouse">
+		<Head>
+			<Channel CQC="false" BG="false" AI="true" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="true" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4027" Y="-74" Z="6148" Team="NIU" />
+			<Flag X="3963" Y="0" Z="771" Team="Derberan" />
+			<Entity X="3312" Y="16" Z="3067" Code="EA03" Target="FIXED_MINIGUN" SpawnInterval="30000" />
+			<Entity X="2970" Y="-33" Z="3101" Code="EN16" Target="FIXED_BRK_INCUBATOR" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="43" Name="LostTemple">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="true" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4691" Y="138" Z="4496" Team="NIU" />
+			<Flag X="2439" Y="138" Z="4188" Team="Derberan" />
+		</Object>
+	</Map>
+	<Map ID="12" Name="Marien">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2292" Y="6" Z="2030" Team="NIU" />
+			<Flag X="4070" Y="116" Z="3983" Team="Derberan" />
+			<Bomb X="2643" Y="61" Z="3471" />
+			<Bomb X="3649" Y="62" Z="2501" />
+		</Object>
+	</Map>
+	<Map ID="0" Name="Montana">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4776" Y="-0" Z="5136" Team="Derberan" />
+			<Flag X="6695" Y="-0" Z="6374" Team="None" />
+			<Flag X="8476" Y="-0" Z="7315" Team="NIU" />
+			<Entity X="8425" Y="-0" Z="7107" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="4909" Y="-0" Z="5361" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="6668" Y="-0" Z="5748" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="6726" Y="172" Z="7086" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="6603" Y="172" Z="5348" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="6629" Y="-0" Z="6714" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+		</Object>
+	</Map>
+	<Map ID="21" Name="Nerbil">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3389" Y="-290" Z="1534" Team="Derberan" />
+			<Flag X="2068" Y="-333" Z="4822" Team="NIU" />
+		</Object>
+	</Map>
+	<Map ID="81" Name="Odyssey">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="true" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="15731" Y="263" Z="13131" Team="NIU" />
+			<Flag X="15731" Y="262" Z="13541" Team="Derberan" />
+		</Object>
+	</Map>
+	<Map ID="4" Name="Ohara">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="10516" Y="169" Z="2653" Team="Derberan" />
+			<Flag X="2892" Y="199" Z="10032" Team="NIU" />
+			<Flag X="8928" Y="343" Z="5959" Team="None" />
+			<Flag X="5244" Y="227" Z="6351" Team="None" />
+			<Flag X="9748" Y="721" Z="9904" Team="None" />
+			<Entity X="11124" Y="143" Z="3228" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="2009" Y="172" Z="9635" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="8582" Y="396" Z="6031" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="5579" Y="279" Z="6392" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="3183" Y="225" Z="9294" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="10011" Y="195" Z="3172" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="10655" Y="195" Z="3858" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="3410" Y="225" Z="9659" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="11348" Y="157" Z="2453" Code="EE04" Target="TANK_K1A1" SpawnInterval="60000" />
+			<Entity X="1889" Y="187" Z="10420" Code="EE04" Target="TANK_K1A1" SpawnInterval="60000" />
+			<Entity X="8684" Y="345" Z="5645" Code="EE04" Target="TANK_K1A1" SpawnInterval="60000" />
+			<Entity X="5374" Y="227" Z="6732" Code="EE04" Target="TANK_K1A1" SpawnInterval="60000" />
+			<Entity X="9638" Y="721" Z="10040" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="10071" Y="735" Z="10088" Code="EE04" Target="TANK_K1A1" SpawnInterval="60000" />
+			<Entity X="10487" Y="143" Z="2795" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="1991" Y="172" Z="9703" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="2919" Y="172" Z="9888" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="11114" Y="143" Z="3151" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="10287" Y="195" Z="3511" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="2672" Y="225" Z="8890" Code="EA01" Target="FIXED_CAL50" SpawnInterval="50000" />
+			<Entity X="11156" Y="143" Z="3017" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="60000" />
+			<Entity X="1914" Y="172" Z="9830" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="60000" />
+		</Object>
+	</Map>
+	<Map ID="49" Name="OutPost">
+		<Head>
+			<Channel CQC="false" BG="false" AI="true" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="true" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="true" Event="false" Experience="1,1" />
+		</Head>
+		<Object>
+			<Flag X="3182" Y="-389" Z="1671" Team="Derberan" />
+			<Flag X="423" Y="-2" Z="1667" Team="NIU" />
+			<Entity X="1602" Y="3" Z="1386" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="1693" Y="-2" Z="1211" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="1914" Y="-1" Z="1691" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="1638" Y="0" Z="1627" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="1589" Y="-1" Z="1976" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="1733" Y="5" Z="2168" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="1516" Y="1" Z="1723" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="8" Name="Pargona">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="25606" Y="-146" Z="35554" Team="Derberan" />
+			<Flag X="25817" Y="-136" Z="15574" Team="NIU" />
+			<Flag X="24740" Y="743" Z="25304" Team="None" />
+			<Flag X="26797" Y="742" Z="25925" Team="None" />
+			<Flag X="25939" Y="-94" Z="29044" Team="None" />
+			<Flag X="20439" Y="-168" Z="28568" Team="None" />
+			<Flag X="30556" Y="-47" Z="29779" Team="None" />
+			<Flag X="25598" Y="-86" Z="22337" Team="None" />
+			<Flag X="30830" Y="-173" Z="22433" Team="None" />
+			<Flag X="20900" Y="-67" Z="21363" Team="None" />
+			<Entity X="25715" Y="-173" Z="34833" Code="EJ06" Target="HEL_BLACKHAWK_MINIGUN" SpawnInterval="60000" />
+			<Entity X="25582" Y="-124" Z="28702" Code="EI01" Target="TANK_GEPARD" SpawnInterval="60000" />
+			<Entity X="30576" Y="-9" Z="30011" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="60000" />
+			<Entity X="26423" Y="-176" Z="35403" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="25149" Y="-176" Z="34750" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="26812" Y="742" Z="26025" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="60000" />
+			<Entity X="24724" Y="743" Z="25195" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="60000" />
+			<Entity X="25237" Y="1006" Z="25482" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="60000" />
+			<Entity X="26327" Y="1005" Z="25739" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="60000" />
+			<Entity X="25959" Y="-116" Z="22686" Code="EI01" Target="TANK_GEPARD" SpawnInterval="60000" />
+			<Entity X="27378" Y="-246" Z="35363" Code="EM01" Target="BOAT_MKV" SpawnInterval="60000" />
+			<Entity X="25152" Y="-174" Z="35404" Code="EJ05" Target="HEL_500MD" SpawnInterval="60000" />
+			<Entity X="27286" Y="-224" Z="35147" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="25786" Y="1171" Z="25607" Code="EJ05" Target="HEL_500MD" SpawnInterval="60000" />
+			<Entity X="26283" Y="-162" Z="15707" Code="EJ05" Target="HEL_500MD" SpawnInterval="60000" />
+			<Entity X="24994" Y="-166" Z="15695" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="25732" Y="-162" Z="16300" Code="EJ06" Target="HEL_BLACKHAWK_MINIGUN" SpawnInterval="60000" />
+			<Entity X="24096" Y="-228" Z="15965" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="24008" Y="-241" Z="15738" Code="EM01" Target="BOAT_MKV" SpawnInterval="60000" />
+			<Entity X="26272" Y="-166" Z="16340" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="20857" Y="-38" Z="21120" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="60000" />
+			<Entity X="26494" Y="-176" Z="34774" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="24921" Y="-166" Z="16347" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="19825" Y="-222" Z="29535" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="31453" Y="-221" Z="21454" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="26727" Y="-141" Z="35911" Code="EA01" Target="FIXED_CAL50" SpawnInterval="40000" />
+			<Entity X="24964" Y="-149" Z="35857" Code="EA01" Target="FIXED_CAL50" SpawnInterval="40000" />
+			<Entity X="24698" Y="-116" Z="15200" Code="EA01" Target="FIXED_CAL50" SpawnInterval="40000" />
+			<Entity X="26459" Y="-120" Z="15245" Code="EA01" Target="FIXED_CAL50" SpawnInterval="40000" />
+		</Object>
+	</Map>
+	<Map ID="9" Name="Pargona East">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="13742" Y="-181" Z="6564" Team="NIU" />
+			<Flag X="14014" Y="-132" Z="9442" Team="None" />
+			<Flag X="10330" Y="-87" Z="9100" Team="None" />
+			<Flag X="8679" Y="-145" Z="14606" Team="None" />
+			<Flag X="12510" Y="126" Z="13319" Team="None" />
+			<Flag X="13252" Y="122" Z="11691" Team="None" />
+			<Flag X="17213" Y="-138" Z="10218" Team="None" />
+			<Flag X="11831" Y="-128" Z="15629" Team="None" />
+			<Flag X="15447" Y="-83" Z="16056" Team="None" />
+			<Flag X="11955" Y="-182" Z="18906" Team="Derberan" />
+			<Entity X="12375" Y="-243" Z="7231" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="13597" Y="-207" Z="5553" Code="EJ06" Target="HEL_BLACKHAWK_MINIGUN" SpawnInterval="60000" />
+			<Entity X="12448" Y="-119" Z="5454" Code="EJ05" Target="HEL_500MD" SpawnInterval="60000" />
+			<Entity X="14639" Y="-130" Z="5458" Code="EJ05" Target="HEL_500MD" SpawnInterval="60000" />
+			<Entity X="13530" Y="-168" Z="4942" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="12770" Y="356" Z="11970" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="50000" />
+			<Entity X="12175" Y="-240" Z="7230" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="15301" Y="-249" Z="7378" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="15068" Y="-262" Z="7480" Code="EM01" Target="BOAT_MKV" SpawnInterval="60000" />
+			<Entity X="10431" Y="-116" Z="9332" Code="EI01" Target="TANK_GEPARD" SpawnInterval="60000" />
+			<Entity X="12724" Y="563" Z="12549" Code="EJ05" Target="HEL_500MD" SpawnInterval="70000" />
+			<Entity X="12980" Y="564" Z="12517" Code="EJ05" Target="HEL_500MD" SpawnInterval="70000" />
+			<Entity X="16966" Y="-138" Z="10301" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="12139" Y="-169" Z="20588" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="12134" Y="-207" Z="19869" Code="EJ06" Target="HEL_BLACKHAWK_MINIGUN" SpawnInterval="60000" />
+			<Entity X="11078" Y="-129" Z="20021" Code="EJ05" Target="HEL_500MD" SpawnInterval="60000" />
+			<Entity X="13267" Y="-120" Z="19980" Code="EJ05" Target="HEL_500MD" SpawnInterval="60000" />
+			<Entity X="13301" Y="-247" Z="18193" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="13516" Y="-247" Z="18194" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="10617" Y="-256" Z="18012" Code="EM01" Target="BOAT_MKV" SpawnInterval="60000" />
+			<Entity X="10371" Y="-245" Z="18099" Code="EL01" Target="BOAT_LSSC" SpawnInterval="50000" />
+			<Entity X="13815" Y="-132" Z="9497" Code="ED02" Target="CAR_HUMVEE_TOW" SpawnInterval="60000" />
+			<Entity X="13635" Y="-132" Z="9494" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="60000" />
+			<Entity X="17066" Y="-138" Z="10310" Code="ED02" Target="CAR_HUMVEE_TOW" SpawnInterval="60000" />
+			<Entity X="12943" Y="356" Z="13083" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="50000" />
+			<Entity X="11996" Y="-128" Z="15628" Code="ED02" Target="CAR_HUMVEE_TOW" SpawnInterval="60000" />
+			<Entity X="12185" Y="-128" Z="15620" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="60000" />
+			<Entity X="15362" Y="-113" Z="15834" Code="EI01" Target="TANK_GEPARD" SpawnInterval="60000" />
+			<Entity X="8921" Y="-145" Z="14538" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="40000" />
+			<Entity X="8830" Y="-145" Z="14524" Code="ED02" Target="CAR_HUMVEE_TOW" SpawnInterval="60000" />
+		</Object>
+	</Map>
+	<Map ID="34" Name="Paroho">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="6838" Y="60" Z="3066" Team="Derberan" />
+			<Flag X="6230" Y="85" Z="5795" Team="None" />
+			<Flag X="8240" Y="120" Z="5740" Team="NIU" />
+			<Flag X="8850" Y="60" Z="3875" Team="None" />
+			<Entity X="6666" Y="80" Z="3401" Code="EG02" Target="TANK_K200" SpawnInterval="20000" />
+			<Entity X="6504" Y="60" Z="3215" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="20000" />
+			<Entity X="8300" Y="120" Z="5412" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="8751" Y="60" Z="5575" Code="EG02" Target="TANK_K200" SpawnInterval="20000" />
+			<Entity X="5698" Y="60" Z="5973" Code="EF04" Target="TANK_WIESEL_GUN" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="5" Name="Ravello">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2271" Y="132" Z="4123" Team="NIU" />
+			<Flag X="4240" Y="121" Z="3975" Team="None" />
+			<Flag X="4529" Y="120" Z="1929" Team="Derberan" />
+			<Flag X="2952" Y="80" Z="2649" Team="None" />
+		</Object>
+	</Map>
+	<Map ID="6" Name="Ravello 2nd St.">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2232" Y="151" Z="4209" Team="NIU" />
+			<Flag X="4191" Y="117" Z="3936" Team="None" />
+			<Flag X="4529" Y="120" Z="1929" Team="Derberan" />
+			<Flag X="2569" Y="30" Z="2403" Team="None" />
+		</Object>
+	</Map>
+	<Map ID="27" Name="Red Clover">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="true" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2646" Y="261" Z="3148" Team="NIU" />
+			<Flag X="231" Y="276" Z="1010" Team="Derberan" />
+		</Object>
+	</Map>
+	<Map ID="82" Name="Redsign">
+		<Head>
+			<Channel CQC="false" BG="false" AI="true" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="true" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="262" Y="0" Z="2282" Team="Derberan" />
+			<Flag X="148" Y="0" Z="1372" Team="NIU" />
+			<Flag X="5954" Y="0" Z="1383" Team="None" />
+			<Flag X="3596" Y="0" Z="2609" Team="None" />
+			<Flag X="3673" Y="0" Z="2469" Team="None" />
+			<Flag X="5144" Y="0" Z="657" Team="None" />
+			<Entity X="3933" Y="999" Z="1195" Code="EN31" Target="FIXED_BRK_ELEVATOR_LOOP" SpawnInterval="600000" />
+			<Entity X="708" Y="234" Z="1898" Code="EN22" Target="FIXED_BRK_STARTDOOR1" SpawnInterval="600000" />
+			<Entity X="708" Y="234" Z="1952" Code="EN23" Target="FIXED_BRK_STARTDOOR2" SpawnInterval="600000" />
+			<Entity X="5923" Y="313" Z="3002" Code="EN24" Target="FIXED_BRK_HACKDOOR1" SpawnInterval="600000" />
+			<Entity X="5923" Y="313" Z="3002" Code="EN25" Target="FIXED_BRK_HACKDOOR2" SpawnInterval="600000" />
+			<Entity X="5156" Y="313" Z="3955" Code="EN27" Target="FIXED_BRK_OIL_TANK" SpawnInterval="600000" />
+			<Entity X="4057" Y="523" Z="2977" Code="EN28" Target="FIXED_BRK_JAIL1" SpawnInterval="600000" />
+			<Entity X="4085" Y="523" Z="2366" Code="EN24" Target="FIXED_BRK_HACKDOOR1" SpawnInterval="600000" />
+			<Entity X="4086" Y="523" Z="2366" Code="EN25" Target="FIXED_BRK_HACKDOOR2" SpawnInterval="600000" />
+			<Entity X="3775" Y="523" Z="2276" Code="EN26" Target="FIXED_BRK_FIRE_WALL" SpawnInterval="600000" />
+			<Entity X="3661" Y="1008" Z="1964" Code="EN30" Target="FIXED_BRK_MANHOLE" SpawnInterval="600000" />
+			<Entity X="3661" Y="1008" Z="1454" Code="EN30" Target="FIXED_BRK_MANHOLE" SpawnInterval="600000" />
+			<Entity X="4733" Y="1007" Z="812" Code="EN26" Target="FIXED_BRK_FIRE_WALL" SpawnInterval="600000" />
+			<Entity X="5252" Y="1129" Z="532" Code="EN33" Target="FIXED_BRK_HACKDOOR3" SpawnInterval="600000" />
+			<Entity X="4057" Y="523" Z="2546" Code="EN28" Target="FIXED_BRK_JAIL1" SpawnInterval="600000" />
+			<Entity X="4733" Y="1007" Z="1013" Code="EN29" Target="FIXED_BRK_JAIL2" SpawnInterval="600000" />
+			<Entity X="4907" Y="1007" Z="1195" Code="EN29" Target="FIXED_BRK_JAIL2" SpawnInterval="600000" />
+			<Entity X="5673" Y="1136" Z="627" Code="EN32" Target="FIXED_BRK_BOOM" SpawnInterval="600000" />
+			<Entity X="5508" Y="313" Z="3954" Code="EN27" Target="FIXED_BRK_OIL_TANK" SpawnInterval="30000" />
+			<Entity X="498" Y="234" Z="1934" Code="EN01" Target="FIXED_BRK_Drum" SpawnInterval="30000" />
+			<Entity X="2954" Y="887" Z="2762" Code="EN28" Target="FIXED_BRK_JAIL1" SpawnInterval="30000" />
+			<Entity X="2954" Y="887" Z="2717" Code="EN28" Target="FIXED_BRK_JAIL1" SpawnInterval="30000" />
+			<Entity X="2954" Y="644" Z="2717" Code="EN28" Target="FIXED_BRK_JAIL1" SpawnInterval="30000" />
+			<Entity X="2954" Y="644" Z="2762" Code="EN28" Target="FIXED_BRK_JAIL1" SpawnInterval="30000" />
+			<Entity X="2814" Y="234" Z="1860" Code="EN36" Target="FIXED_BRK_BOARD1" SpawnInterval="30000" />
+			<Entity X="5942" Y="234" Z="2375" Code="EN37" Target="FIXED_BRK_BOARD2" SpawnInterval="30000" />
+			<Entity X="5917" Y="313" Z="3351" Code="EN38" Target="FIXED_BRK_BOARD3" SpawnInterval="30000" />
+			<Entity X="4956" Y="399" Z="3102" Code="EN39" Target="FIXED_BRK_BOARD4" SpawnInterval="30000" />
+			<Entity X="4500" Y="520" Z="3007" Code="EN40" Target="FIXED_BRK_BOARD5" SpawnInterval="30000" />
+			<Entity X="3836" Y="1129" Z="1195" Code="EN42" Target="FIXED_BRK_ELEVATOR_DOOR" SpawnInterval="30000" />
+			<Entity X="4302" Y="234" Z="2437" Code="EN41" Target="FIXED_BRK_MANHOLE2" SpawnInterval="30000" />
+			<Entity X="498" Y="1234" Z="1934" Code="EN43" Target="FIXED_BRK_EN43_DER" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="29" Name="Rusty Nails">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="true" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="3476" Y="0" Z="3353" Team="Derberan" />
+			<Flag X="2336" Y="0" Z="4995" Team="NIU" />
+		</Object>
+	</Map>
+	<Map ID="42" Name="SiegeWar">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="true" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="22381" Y="-2082" Z="3738" Team="Derberan" />
+			<Flag X="9677" Y="-1146" Z="15609" Team="None" />
+			<Flag X="15110" Y="-1823" Z="10318" Team="NIU" />
+			<Flag X="6655" Y="-1705" Z="18795" Team="None" />
+			<Entity X="20729" Y="-274" Z="4703" Code="EE04" Target="TANK_K1A1" SpawnInterval="5000" />
+			<Entity X="20943" Y="-275" Z="4438" Code="ED06" Target="Car_DPV" SpawnInterval="5000" />
+			<Entity X="21256" Y="-277" Z="4747" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="5000" />
+			<Entity X="12322" Y="238" Z="12876" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="12435" Y="238" Z="13231" Code="EA02" Target="FIXED_TOW" SpawnInterval="30000" />
+			<Entity X="10033" Y="406" Z="15928" Code="EA02" Target="FIXED_TOW" SpawnInterval="30000" />
+			<Entity X="9391" Y="405" Z="15178" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="30000" />
+			<Entity X="11251" Y="219" Z="13534" Code="EN03" Target="FIXED_BRK_ENGINE" SpawnInterval="30000" />
+			<Entity X="14309" Y="238" Z="10090" Code="EN02" Target="FIXED_BRK_DOOR" SpawnInterval="30000" />
+			<Entity X="15332" Y="240" Z="11116" Code="EN02" Target="FIXED_BRK_DOOR" SpawnInterval="30000" />
+			<Entity X="9164" Y="666" Z="16145" Code="EN04" Target="FIXED_BRK_DOOR2" SpawnInterval="30000" />
+			<Entity X="9926" Y="405" Z="15746" Code="ED02" Target="CAR_HUMVEE_TOW" SpawnInterval="30000" />
+			<Entity X="20960" Y="-276" Z="5046" Code="EE02" Target="TANK_LEOPARD" SpawnInterval="5000" />
+			<Entity X="9437" Y="406" Z="15307" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="14875" Y="327" Z="9627" Code="EA02" Target="FIXED_TOW" SpawnInterval="30000" />
+			<Entity X="14875" Y="568" Z="9609" Code="EA02" Target="FIXED_TOW" SpawnInterval="30000" />
+			<Entity X="15819" Y="568" Z="10551" Code="EA02" Target="FIXED_TOW" SpawnInterval="30000" />
+			<Entity X="15795" Y="327" Z="10550" Code="EA02" Target="FIXED_TOW" SpawnInterval="30000" />
+			<Entity X="15481" Y="448" Z="11799" Code="EA02" Target="FIXED_TOW" SpawnInterval="30000" />
+			<Entity X="13637" Y="448" Z="9932" Code="EA02" Target="FIXED_TOW" SpawnInterval="30000" />
+			<Entity X="20663" Y="-274" Z="4184" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="5000" />
+			<Entity X="11991" Y="238" Z="12735" Code="EA02" Target="FIXED_TOW" SpawnInterval="30000" />
+			<Entity X="20373" Y="-267" Z="4469" Code="EE02" Target="TANK_LEOPARD" SpawnInterval="5000" />
+			<Entity X="6974" Y="182" Z="16834" Code="EN05" Target="FIXED_BRK_CONTROL_UNIT" SpawnInterval="30000" />
+			<Entity X="8017" Y="172" Z="17383" Code="EN05" Target="FIXED_BRK_CONTROL_UNIT" SpawnInterval="30000" />
+			<Entity X="8569" Y="262" Z="18451" Code="EN05" Target="FIXED_BRK_CONTROL_UNIT" SpawnInterval="30000" />
+			<Entity X="9842" Y="405" Z="15706" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="7776" Y="295" Z="17668" Code="EN06" Target="FIXED_BRK_MISSILE" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="55" Name="SiegeWar2">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="true" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2653" Y="1499" Z="-2562" Team="Derberan" />
+			<Flag X="2994" Y="1721" Z="149" Team="NIU" />
+			<Flag X="4741" Y="1721" Z="784" Team="None" />
+			<Flag X="1892" Y="1718" Z="571" Team="None" />
+			<Bomb X="3733" Y="1976" Z="716" />
+			<Entity X="3754" Y="1976" Z="716" Code="EN10" Target="FIXED_BRK_CONTROL_UNIT2" SpawnInterval="30000" />
+			<Entity X="3751" Y="2534" Z="713" Code="EN11" Target="FIXED_BRK_RADAR" SpawnInterval="30000" />
+			<Entity X="2446" Y="1725" Z="229" Code="EN08" Target="FIXED_BRK_DOOR4" SpawnInterval="30000" />
+			<Entity X="4686" Y="1747" Z="804" Code="EN14" Target="FIXED_BRK_DP05_DER" SpawnInterval="30000" />
+			<Entity X="1916" Y="1881" Z="476" Code="EN07" Target="FIXED_BRK_DOOR3" SpawnInterval="30000" />
+			<Entity X="3241" Y="1721" Z="278" Code="EN08" Target="FIXED_BRK_DOOR4" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="40" Name="SkillPointer">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="true" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4226" Y="334" Z="5646" Team="NIU" />
+			<Flag X="11885" Y="286" Z="14693" Team="Derberan" />
+			<Flag X="9999" Y="586" Z="7450" Team="None" />
+			<Entity X="3975" Y="352" Z="6403" Code="EE07" Target="TANK_JAPAN90" SpawnInterval="1000" />
+			<Entity X="3451" Y="352" Z="5995" Code="EE01" Target="TANK_M1A1" SpawnInterval="1000" />
+			<Entity X="3607" Y="352" Z="6113" Code="EE01" Target="TANK_M1A1" SpawnInterval="1000" />
+			<Entity X="3522" Y="350" Z="5413" Code="EH01" Target="TANK_M109A6" SpawnInterval="1000" />
+			<Entity X="10823" Y="268" Z="13946" Code="EH01" Target="TANK_M109A6" SpawnInterval="1000" />
+			<Entity X="11264" Y="268" Z="14752" Code="EE01" Target="TANK_M1A1" SpawnInterval="1000" />
+			<Entity X="11378" Y="268" Z="14064" Code="EE01" Target="TANK_M1A1" SpawnInterval="1000" />
+			<Entity X="11613" Y="268" Z="14907" Code="EE07" Target="TANK_JAPAN90" SpawnInterval="1000" />
+			<Entity X="11912" Y="270" Z="14474" Code="EE07" Target="TANK_JAPAN90" SpawnInterval="1000" />
+			<Entity X="10648" Y="268" Z="14279" Code="EH01" Target="TANK_M109A6" SpawnInterval="1000" />
+			<Entity X="3415" Y="350" Z="5572" Code="EH01" Target="TANK_M109A6" SpawnInterval="1000" />
+			<Entity X="3801" Y="352" Z="6282" Code="EE07" Target="TANK_JAPAN90" SpawnInterval="1000" />
+		</Object>
+	</Map>
+	<Map ID="24" Name="Thamugadi">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="9962" Y="401" Z="14963" Team="Derberan" />
+			<Flag X="18208" Y="86" Z="8968" Team="NIU" />
+			<Flag X="16488" Y="-465" Z="10855" Team="None" />
+			<Flag X="16221" Y="-450" Z="9905" Team="None" />
+			<Flag X="15716" Y="-469" Z="8815" Team="None" />
+			<Flag X="13214" Y="-401" Z="9955" Team="None" />
+			<Flag X="13431" Y="-351" Z="11127" Team="None" />
+			<Flag X="14218" Y="-430" Z="11902" Team="None" />
+			<Flag X="11081" Y="46" Z="13637" Team="None" />
+			<Flag X="14704" Y="-451" Z="9755" Team="None" />
+			<Entity X="14703" Y="-451" Z="9838" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="9644" Y="409" Z="15555" Code="EI02" Target="TANK_CHUNMA" SpawnInterval="40000" />
+			<Entity X="11204" Y="54" Z="13877" Code="EI01" Target="TANK_GEPARD" SpawnInterval="50000" />
+			<Entity X="9411" Y="424" Z="14729" Code="EE04" Target="TANK_K1A1" SpawnInterval="40000" />
+			<Entity X="9046" Y="352" Z="15912" Code="EJ08" Target="HEL_CH47_CHINOOK" SpawnInterval="120000" />
+			<Entity X="9967" Y="410" Z="15098" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="60000" />
+			<Entity X="10903" Y="37" Z="13077" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="10065" Y="440" Z="15244" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="8842" Y="355" Z="15635" Code="EJ03" Target="HEL_APACHE" SpawnInterval="60000" />
+			<Entity X="10282" Y="408" Z="15461" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="60000" />
+			<Entity X="9345" Y="424" Z="14820" Code="EE04" Target="TANK_K1A1" SpawnInterval="40000" />
+			<Entity X="17700" Y="-86" Z="8645" Code="EI02" Target="TANK_CHUNMA" SpawnInterval="60000" />
+			<Entity X="17919" Y="-86" Z="8634" Code="EE03" Target="TANK_LECLERC" SpawnInterval="40000" />
+			<Entity X="18500" Y="-82" Z="9046" Code="EE02" Target="TANK_LEOPARD" SpawnInterval="40000" />
+			<Entity X="17082" Y="-81" Z="8981" Code="EJ03" Target="HEL_APACHE" SpawnInterval="60000" />
+			<Entity X="18004" Y="-133" Z="9165" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="16214" Y="-463" Z="10761" Code="EB04" Target="FIXED_SG" SpawnInterval="40000" />
+			<Entity X="16424" Y="-157" Z="10120" Code="EB04" Target="FIXED_SG" SpawnInterval="40000" />
+			<Entity X="13278" Y="-401" Z="9837" Code="EB04" Target="FIXED_SG" SpawnInterval="40000" />
+			<Entity X="18479" Y="-70" Z="8703" Code="EJ03" Target="HEL_APACHE" SpawnInterval="60000" />
+			<Entity X="12115" Y="-373" Z="10996" Code="EI01" Target="TANK_GEPARD" SpawnInterval="90000" />
+			<Entity X="10116" Y="548" Z="15520" Code="EB04" Target="FIXED_SG" SpawnInterval="50000" />
+		</Object>
+	</Map>
+	<Map ID="14" Name="Velruf">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2996" Y="177" Z="4192" Team="NIU" />
+			<Flag X="3095" Y="227" Z="1016" Team="Derberan" />
+			<Bomb X="2975" Y="174" Z="4065" />
+			<Bomb X="2371" Y="198" Z="3461" />
+		</Object>
+	</Map>
+	<Map ID="26" Name="Vitious">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="1902" Y="238" Z="1652" Team="Derberan" />
+			<Flag X="1917" Y="239" Z="5160" Team="NIU" />
+		</Object>
+	</Map>
+	<Map ID="38" Name="Winter Forest">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="12038" Y="828" Z="3693" Team="NIU" />
+			<Flag X="9485" Y="119" Z="5293" Team="None" />
+			<Flag X="5246" Y="386" Z="6043" Team="None" />
+			<Flag X="2305" Y="536" Z="9503" Team="Derberan" />
+			<Entity X="2479" Y="358" Z="9307" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="12097" Y="829" Z="3653" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="12094" Y="827" Z="3750" Code="ED08" Target="CAR_60TRUCK_COVER" SpawnInterval="30000" />
+			<Entity X="2525" Y="160" Z="9194" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="30000" />
+			<Entity X="2362" Y="183" Z="9135" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="2661" Y="158" Z="9164" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="4028" Y="234" Z="9411" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="9358" Y="116" Z="5437" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="9350" Y="118" Z="5313" Code="EC01" Target="MOTORCYCLE_CR125" SpawnInterval="30000" />
+			<Entity X="9413" Y="117" Z="5382" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="30000" />
+		</Object>
+	</Map>
+	<Map ID="83" Name="Winter_RedClover">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="true" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="true" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2646" Y="261" Z="3148" Team="NIU" />
+			<Flag X="231" Y="276" Z="1010" Team="Derberan" />
+		</Object>
+	</Map>
+	<Map ID="84" Name="W_Marien">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="true" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2292" Y="6" Z="2029" Team="NIU" />
+			<Flag X="4070" Y="116" Z="3983" Team="Derberan" />
+			<Bomb X="2643" Y="61" Z="3471" />
+			<Bomb X="3649" Y="62" Z="2501" />
+		</Object>
+	</Map>
+	<Map ID="15" Name="Xauen">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="Bronce" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="4041" Y="199" Z="4817" Team="NIU" />
+			<Flag X="3710" Y="154" Z="1920" Team="Derberan" />
+			<Bomb X="3553" Y="216" Z="3477" />
+			<Bomb X="4244" Y="199" Z="4242" />
+		</Object>
+	</Map>
+	<Map ID="85" Name="XauenHalloween">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="true" Experience="1,1" />
+		</Head>
+		<Object>
+			<Flag X="4041" Y="199" Z="4817" Team="NIU" />
+			<Flag X="3710" Y="154" Z="1920" Team="Derberan" />
+			<Bomb X="3553" Y="216" Z="3477" />
+			<Bomb X="4244" Y="199" Z="4242" />
+		</Object>
+	</Map>
+	<Map ID="86" Name="XJiufen">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="true" Event="true" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="1921" Y="377" Z="3222" Team="Derberan" />
+			<Flag X="4839" Y="25" Z="3138" Team="NIU" />
+		</Object>
+	</Map>
+	<Map ID="87" Name="XMarien">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="true" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2292" Y="6" Z="2030" Team="NIU" />
+			<Flag X="4070" Y="116" Z="3983" Team="Derberan" />
+			<Bomb X="2643" Y="61" Z="3471" />
+			<Bomb X="3649" Y="62" Z="2501" />
+		</Object>
+	</Map>
+	<Map ID="88" Name="XVelruf">
+		<Head>
+			<Channel CQC="true" BG="false" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="true" />
+				<Mode Name="FreeForAll" Allowed="true" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="false" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="true" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="2996" Y="177" Z="4192" Team="NIU" />
+			<Flag X="3095" Y="227" Z="1016" Team="Derberan" />
+			<Bomb X="2975" Y="174" Z="4065" />
+			<Bomb X="2371" Y="198" Z="3461" />
+		</Object>
+	</Map>
+	<Map ID="18" Name="Zakhar">
+		<Head>
+			<Channel CQC="false" BG="true" AI="false" />
+			<GameMode>
+				<Mode Name="Explosive" Allowed="false" />
+				<Mode Name="FreeForAll" Allowed="false" />
+				<Mode Name="FourVsFour" Allowed="false" />
+				<Mode Name="Deathmatch" Allowed="true" />
+				<Mode Name="Conquest" Allowed="false" />
+				<Mode Name="ExplosiveBG" Allowed="false" />
+				<Mode Name="HeroMode" Allowed="false" />
+				<Mode Name="TotalWar" Allowed="false" />
+				<Mode Name="Survive" Allowed="false" />
+				<Mode Name="Defence" Allowed="false" />
+				<Mode Name="Escape" Allowed="false" />
+			</GameMode>
+			<Premium Type="None" />
+			<Special New="false" Event="false" Experience="1" />
+		</Head>
+		<Object>
+			<Flag X="9558" Y="-327" Z="9168" Team="Derberan" />
+			<Flag X="3282" Y="-327" Z="3247" Team="NIU" />
+			<Flag X="8210" Y="-59" Z="7667" Team="None" />
+			<Flag X="6377" Y="-327" Z="6649" Team="None" />
+			<Flag X="5276" Y="-327" Z="5111" Team="None" />
+			<Entity X="5877" Y="-327" Z="4425" Code="ED04" Target="CAR_HUMVEE_AVENGER" SpawnInterval="40000" />
+			<Entity X="9194" Y="-327" Z="10171" Code="EE04" Target="TANK_K1A1" SpawnInterval="50000" />
+			<Entity X="3144" Y="-327" Z="2674" Code="ED05" Target="CAR_LUCHS" SpawnInterval="50000" />
+			<Entity X="9003" Y="-327" Z="8072" Code="ED04" Target="CAR_HUMVEE_AVENGER" SpawnInterval="40000" />
+			<Entity X="8497" Y="-327" Z="9111" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="9305" Y="-327" Z="10258" Code="ED05" Target="CAR_LUCHS" SpawnInterval="50000" />
+			<Entity X="9794" Y="-327" Z="9333" Code="EJ03" Target="HEL_APACHE" SpawnInterval="90000" />
+			<Entity X="3877" Y="-324" Z="2211" Code="EJ06" Target="HEL_BLACKHAWK_MINIGUN" SpawnInterval="50000" />
+			<Entity X="3562" Y="-327" Z="3561" Code="ED01" Target="CAR_HUMVEE_CAL50" SpawnInterval="50000" />
+			<Entity X="3264" Y="-327" Z="2801" Code="EE03" Target="TANK_LECLERC" SpawnInterval="50000" />
+			<Entity X="5693" Y="-324" Z="5343" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="3928" Y="-327" Z="3165" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="9025" Y="-327" Z="9586" Code="EB01" Target="FIXED_OERLIKON" SpawnInterval="40000" />
+			<Entity X="4225" Y="-323" Z="3112" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+			<Entity X="8306" Y="-323" Z="10059" Code="EA01" Target="FIXED_CAL50" SpawnInterval="30000" />
+		</Object>
+	</Map>
+</MapDetails>

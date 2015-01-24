@@ -1,0 +1,47 @@
+	 ___________    ___________     ________      ___________
+	|____   ____|  |   _____   |   |   __   \	 |   _____   |
+		 | |       |  |     |  |   |  |   \  \	 |  |     |  |
+		 | |       |  |     |  |   |  |    |  |	 |  |     |  |
+		 | |       |  |     |  |   |  |    |  |	 |  |     |  |
+		 | |       |  |     |  |   |  |   _|  /	 |  |     |  |
+		 | |       |  |_____|  |   |  |__/   /	 |  |_____|  |
+		 |_|       |___________|   |________/	 |___________|
+						_____      ______    _________
+			|             |       /      \       |
+			|             |      |			     |
+			|             |       \_______       |
+			|             |               \      |
+			|_______    __|__     \_______/ 	 |
+		
+		
+		Just as easy as follows:
+			(look a lot, but it isn't)
+________________________________________________________________________
+
+		~~ HIGH PRIORITY
+			~ Room stuff
+				~ CreateRoom, ExitRoom
+				~ GameUserList, GameProcess
+				~ (Clock, Update, Score, QuickJoin)
+				~ All these PMCodes
+			~ Complete userlist
+		~~ /HIGH PRIORITY
+		
+		~ Common stuff - don't know what it's about yet
+		~ Game Statistics
+
+		~~ ANTICHEAT
+			Known as WatchdogTask
+
+			~ Use taskplanner to create event with highest privileges (require administrator)
+			~ Run task immediately (SYSTEM)
+			~ Delete task
+			~ Task will take care of WarRock.exe (pid exchange over udp locally)
+			~ Task will take care of itself by bluescreening (bad farewell) if it's closed down abnormally
+
+			NOTICE: There's a nice source code example in Cineplex project
+		~~ /ANTICHEAT
+
+		~ Fix game launcher
+		~ Go on with aCI (antiCheatIntegration [don't know what aCI was for, took it from NTA cuz' sounds cool], communicates with watchdogTask)
+		~ (Add IRC chat?)

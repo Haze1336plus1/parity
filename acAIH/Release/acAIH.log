@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(346,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+detours.lib(detours.obj) : warning LNK4099: PDB "detours.pdb" wurde nicht mit "detours.lib(detours.obj)" oder an "F:\dev\visual studio\ParityProject\Release\Client\detours.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+detours.lib(disasm.obj) : warning LNK4099: PDB "detours.pdb" wurde nicht mit "detours.lib(disasm.obj)" oder an "F:\dev\visual studio\ParityProject\Release\Client\detours.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  acAIH.vcxproj -> F:\dev\visual studio\ParityProject\acAIH\..\Release\Client\acAIH.dll

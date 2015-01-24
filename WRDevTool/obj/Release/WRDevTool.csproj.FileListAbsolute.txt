@@ -1,0 +1,10 @@
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Release\WRDevTool.exe.config
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Release\WRDevTool.exe
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Release\WRDevTool.pdb
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Release\Parity.Base.dll
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Release\Parity.GameDetails.dll
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Release\Parity.Base.pdb
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Release\Parity.GameDetails.pdb
+E:\dev\visual studio\ParityProject\WRDevTool\obj\Release\WRDevTool.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\WRDevTool\obj\Release\WRDevTool.exe
+E:\dev\visual studio\ParityProject\WRDevTool\obj\Release\WRDevTool.pdb

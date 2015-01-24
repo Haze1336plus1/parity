@@ -1,0 +1,36 @@
+<!--
+	Parity Project AUTH Server Configuration File
+-->
+<Auth>
+	<!-- Server -->
+	<Server>
+		<Address>127.0.0.1</Address><!-- string, default: 127.0.0.1 -->
+		<Port>5330</Port><!-- ushort, default: 5330 -->
+	</Server>
+	<!-- Patch (required for launcher and updater) -->
+	<Patch
+		Format="0"
+		Launcher="0"
+		Updater="0"
+		Client="0"
+		Sub="0"
+		Option="0"
+		PatchSrv="http://localhost/" />
+	<ServerList>
+		<Server ID="1" Name="Parity Server">
+			<Host>
+				<Address>127.0.0.1</Address><!-- string, default: 127.0.0.1 -->
+				<Port>5340</Port><!-- ushort, default: 5340 -->
+			</Host>
+		</Server>
+	</ServerList>
+	<Rate>
+		<Game>
+			<Experience>1.0</Experience><!-- double, default: 1.0 -->
+			<Dinar>1.0</Dinar><!-- double, default: 1.0 -->
+		</Game>
+		<Weapon>
+			<Damage>1.0</Damage><!-- double, default: 1.0 -->
+		</Weapon>
+	</Rate>
+</Auth>

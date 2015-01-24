@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Quelldateien\Parity">
+      <UniqueIdentifier>{9a25dee8-5151-4c9f-b0bb-8abaac3dda23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Parity\LowLevel">
+      <UniqueIdentifier>{cbb5d1de-ab8b-4e48-bac6-1c1e5efbfe62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Parity">
+      <UniqueIdentifier>{42d5ee5a-aee6-4080-9f32-d2a44b11c689}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Parity\LowLevel">
+      <UniqueIdentifier>{c42bdec7-fcf0-467b-abd2-2e12b199c5ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Vendor">
+      <UniqueIdentifier>{9b04bae7-370d-4be3-aac9-d382f0cb75bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Vendor">
+      <UniqueIdentifier>{59829dfa-6978-462e-aa0e-349ca6986483}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stdafx.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Parity.LowLevel.WRBin.h">
+      <Filter>Headerdateien\Parity\LowLevel</Filter>
+    </ClInclude>
+    <ClInclude Include="CRC32.h">
+      <Filter>Headerdateien\Vendor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Stdafx.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Parit.LowLevel.WRBin.cpp">
+      <Filter>Quelldateien\Parity\LowLevel</Filter>
+    </ClCompile>
+    <ClCompile Include="CRC32.cpp">
+      <Filter>Quelldateien\Vendor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Ressourcendateien</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

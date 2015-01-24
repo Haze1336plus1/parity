@@ -1,0 +1,26 @@
+<!--
+	Parity Project AUTH Server Configuration File
+-->
+<Game>
+	<!-- Game Server connection Details -->
+	<Host>
+		<Address>127.0.0.1</Address><!-- string, default: 127.0.0.1 -->
+		<Port>5340</Port><!-- ushort, default: 5330 -->
+	</Host>
+	<!-- Game related Configuration -->
+	<Game Id="1"><!-- byte, must be equal to login-server-id -->
+		<Name>Parity Server</Name><!-- string -->
+		<BotName>James</BotName><!-- string -->
+		<Database>parity_game1</Database><!-- string -->
+	</Game>
+	<!-- Multipliers for Game constants -->
+	<Rate>
+		<Game>
+			<Experience>1.0</Experience><!-- double, default: 1.0 -->
+			<Dinar>1.0</Dinar><!-- double, default: 1.0 -->
+		</Game>
+		<Weapon>
+			<Damage>1.0</Damage><!-- double, default: 1.0 -->
+		</Weapon>
+	</Rate>
+</Game>

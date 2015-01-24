@@ -1,0 +1,20 @@
+F:\dev\visual studio\ParityProject\Parity.Auth\bin\Debug\Parity.Auth.exe.config
+F:\dev\visual studio\ParityProject\Release\Parity.Auth.exe.config
+F:\dev\visual studio\ParityProject\Release\Parity.Auth.exe
+F:\dev\visual studio\ParityProject\Release\Parity.Auth.pdb
+F:\dev\visual studio\ParityProject\Parity.Auth\obj\Debug\Parity.Auth.csprojResolveAssemblyReference.cache
+F:\dev\visual studio\ParityProject\Parity.Auth\obj\Debug\Parity.Auth.exe
+F:\dev\visual studio\ParityProject\Parity.Auth\obj\Debug\Parity.Auth.pdb
+F:\dev\visual studio\ParityProject\Release\Parity.Auth.exe.CodeAnalysisLog.xml
+F:\dev\visual studio\ParityProject\Release\Parity.Auth.exe.lastcodeanalysissucceeded
+E:\BACKUP OLD\F\dev\visual studio\ParityProject\Release\Parity.Auth.exe.config
+E:\BACKUP OLD\F\dev\visual studio\ParityProject\Parity.Auth\obj\Debug\Parity.Auth.exe
+E:\BACKUP OLD\F\dev\visual studio\ParityProject\Parity.Auth\obj\Debug\Parity.Auth.pdb
+E:\dev\visual studio\ParityProject\Release\Parity.Auth.exe.config
+E:\dev\visual studio\ParityProject\Parity.Auth\obj\Debug\Parity.Auth.exe
+E:\dev\visual studio\ParityProject\Parity.Auth\obj\Debug\Parity.Auth.pdb
+E:\dev\visual studio\ParityProject\Release\Parity.Auth.exe
+E:\dev\visual studio\ParityProject\Release\Parity.Auth.pdb
+E:\dev\visual studio\ParityProject\Release\Parity.Auth.exe.CodeAnalysisLog.xml
+E:\dev\visual studio\ParityProject\Release\Parity.Auth.exe.lastcodeanalysissucceeded
+E:\dev\visual studio\ParityProject\Parity.Auth\obj\Debug\Parity.Auth.csprojResolveAssemblyReference.cache

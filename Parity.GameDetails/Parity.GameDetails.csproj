@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7E9D1612-2126-4864-A7CF-225E6F8B887E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Parity.GameDetails</RootNamespace>
+    <AssemblyName>Parity.GameDetails</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Extension\ArrayAccess.cs" />
+    <Compile Include="Map\ChannelRestriction.cs" />
+    <Compile Include="Map\DetailContainer.cs" />
+    <Compile Include="Map\Details.cs" />
+    <Compile Include="Map\GameModeRestriction.cs" />
+    <Compile Include="Map\Object\Base.cs" />
+    <Compile Include="Map\Object\Bomb.cs" />
+    <Compile Include="Map\Object\Entity.cs" />
+    <Compile Include="Map\Object\EntityDetail.cs" />
+    <Compile Include="Map\Object\Flag.cs" />
+    <Compile Include="Packer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WRBin\BranchContainer.cs" />
+    <Compile Include="WRBin\Branch\BasicInfo.cs" />
+    <Compile Include="WRBin\Branch\BattleClass.cs" />
+    <Compile Include="ItemInformation.cs" />
+    <Compile Include="WRBin\Branch\SlotInfo.cs" />
+    <Compile Include="WRBin\ItemsContainer.cs" />
+    <Compile Include="WRBin\Items\Basic.cs" />
+    <Compile Include="WRBin\Items\Character.cs" />
+    <Compile Include="WRBin\Items\Characters\AbilityInfo.cs" />
+    <Compile Include="WRBin\Items\Etc.cs" />
+    <Compile Include="WRBin\Items\Overall\BasicInfo.cs" />
+    <Compile Include="WRBin\Items\Overall\BuyInfo.cs" />
+    <Compile Include="WRBin\Items\Overall\TargetInfo.cs" />
+    <Compile Include="WRBin\Items\Resource.cs" />
+    <Compile Include="WRBin\Items\Overall\UseInfo.cs" />
+    <Compile Include="WRBin\Items\Weapon.cs" />
+    <Compile Include="WRBin\Items\Weapons\AbilityInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <!--<ProjectReference Include="..\Parity.Gear\Parity.Gear.csproj">
+      <Project>{D6E5EEDF-DBB0-4859-9E7A-47380F956C48}</Project>
+      <Name>Parity.Gear</Name>
+    </ProjectReference>-->
+    <ProjectReference Include="..\Parity.Base\Parity.Base.csproj">
+      <Project>{ef4a75f1-1af2-4452-af39-fff326f5e0a0}</Project>
+      <Name>Parity.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Parity.LowLevel\Parity.LowLevel.vcxproj">
+      <Project>{1a1a33a8-8d7c-4d17-a08f-400ff88729f6}</Project>
+      <Name>Parity.LowLevel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Processor.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,33 @@
+﻿Der Buildvorgang wurde am 24.05.2014 11:51:02 gestartet.
+     1>Projekt "E:\dev\visual studio\ParityProject\WRLauncher\WRLauncher.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\WRLauncher.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\dev\visual studio\ParityProject\Release\WRLauncher.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\dev\visual studio\ParityProject\Release\WRLauncher.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\app.res
+         Release\AssemblyInfo.obj
+         Release\main.obj
+         Release\MemoryExecute.obj
+         Release\stdafx.obj
+         Release\WRLauncher.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         WRLauncher.vcxproj -> E:\dev\visual studio\ParityProject\Release\WRLauncher.exe
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018: Unerwarteter Fehler bei der METAGEN-Aufgabe.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018: System.IO.FileLoadException: Die Datei oder Assembly "WRLauncher.exe" oder eine Abhängigkeit davon wurde nicht gefunden. Zugriff verweigert
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018: Dateiname: 'WRLauncher.exe' ---> System.UnauthorizedAccessException: Zugriff verweigert (Ausnahme von HRESULT: 0x80070005 (E_ACCESSDENIED))
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018: 
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018:    bei System.Reflection.AssemblyName.nGetFileInformation(String s)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018:    bei System.Reflection.AssemblyName.GetAssemblyName(String assemblyFile)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018:    bei Microsoft.Build.CPPTasks.MetaDumper.GenerateAssemblyMeta(String theModule, String refSearchPath)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018:    bei Microsoft.Build.CPPTasks.MetaDumper.GenerateAssemblyMeta(String theModule, String refSearchPath)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018:    bei Microsoft.Build.CPPTasks.AsmMeta.CreateMeta(String assemblyFileName, String searchPath, String metaFileName)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018:    bei Microsoft.Build.CPPTasks.METAGEN.Execute()
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018:    bei Microsoft.Build.BackEnd.TaskExecutionHost.Microsoft.Build.BackEnd.ITaskExecutionHost.Execute()
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018:    bei Microsoft.Build.BackEnd.TaskBuilder.<ExecuteInstantiatedTask>d__20.MoveNext()
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018: 
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MetaGen.targets(52,5): warning MSB4018: 
+     1>Die Erstellung des Projekts "E:\dev\visual studio\ParityProject\WRLauncher\WRLauncher.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.48

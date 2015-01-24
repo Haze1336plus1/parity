@@ -1,0 +1,7 @@
+E:\dev\visual studio\ParityProject\Parity.GameDetails\bin\Release\Parity.GameDetails.dll
+E:\dev\visual studio\ParityProject\Parity.GameDetails\bin\Release\Parity.GameDetails.pdb
+E:\dev\visual studio\ParityProject\Parity.GameDetails\bin\Release\Parity.Base.dll
+E:\dev\visual studio\ParityProject\Parity.GameDetails\bin\Release\Parity.Base.pdb
+E:\dev\visual studio\ParityProject\Parity.GameDetails\obj\Release\Parity.GameDetails.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\Parity.GameDetails\obj\Release\Parity.GameDetails.dll
+E:\dev\visual studio\ParityProject\Parity.GameDetails\obj\Release\Parity.GameDetails.pdb

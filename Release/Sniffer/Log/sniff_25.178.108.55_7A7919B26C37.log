@@ -1,0 +1,18 @@
+15.07.2014 15:29:17 [Default @ Log./new] :: -
+Created a new Log
+
+15.07.2014 15:29:17 [Default @ Sniffer./new] :: -
+Opening Device 'rpcap://\Device\NPF_{D1F0E501-D1DA-4B8D-BB2B-D8F476454359}' ...
+
+15.07.2014 15:29:17 [Default @ Sniffer./new] :: -
+Device opened!
+
+16.07.2014 12:02:15 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+16.07.2014 12:02:15 [Default @ Sniffer./new] :: -
+Opening Device 'rpcap://\Device\NPF_{D1F0E501-D1DA-4B8D-BB2B-D8F476454359}' ...
+
+16.07.2014 12:02:15 [Default @ Sniffer./new] :: -
+Device opened!
+

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C77024CF-345F-49DD-B8D2-9A5683D32E9C}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Parity.Game</RootNamespace>
+    <AssemblyName>Parity.Game</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Release\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;MMCONSOLE_ TEST_</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Vendor\MySql.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client\CharacterDetails.cs" />
+    <Compile Include="Client\Client.cs" />
+    <Compile Include="Client\Controller.cs" />
+    <Compile Include="Client\GameplayClient.cs" />
+    <Compile Include="Client\GameSessionDetails.cs" />
+    <Compile Include="Client\GameSessionRoom.cs" />
+    <Compile Include="Client\InventoryDetails.cs" />
+    <Compile Include="Client\Management\Client.cs" />
+    <Compile Include="Client\SessionDetails.cs" />
+    <Compile Include="Commands\Chat.cs" />
+    <Compile Include="Commands\ICommand.cs" />
+    <Compile Include="Commands\Kick.cs" />
+    <Compile Include="Commands\Message.cs" />
+    <Compile Include="Commands\Notice.cs" />
+    <Compile Include="Commands\PChat.cs" />
+    <Compile Include="Commands\PMessage.cs" />
+    <Compile Include="Commands\Test.cs" />
+    <Compile Include="Game\Details.cs" />
+    <Compile Include="Game\Mode.cs" />
+    <Compile Include="Game\ModeImpl\Explosive.cs" />
+    <Compile Include="Game\PlayerContainer.cs" />
+    <Compile Include="Game\Room.cs" />
+    <Compile Include="Handler\CashProcess.cs" />
+    <Compile Include="Handler\ChangeChannel.cs" />
+    <Compile Include="Handler\Chat.cs" />
+    <Compile Include="Handler\CostumeItemChange.cs" />
+    <Compile Include="Handler\CostumeProcess.cs" />
+    <Compile Include="Handler\CreateRoom.cs" />
+    <Compile Include="Handler\DepotProcess.cs" />
+    <Compile Include="Handler\GameInfo.cs" />
+    <Compile Include="Handler\Greeting.cs" />
+    <Compile Include="Handler\ItemChange.cs" />
+    <Compile Include="Handler\ItemDestroy.cs" />
+    <Compile Include="Handler\ItemProcess.cs" />
+    <Compile Include="Handler\KeepAlive.cs" />
+    <Compile Include="Handler\CashShopDepot.cs" />
+    <Compile Include="Handler\RoomList.cs" />
+    <Compile Include="Handler\UserList.cs" />
+    <Compile Include="Handler\_Debug.cs" />
+    <Compile Include="Handler\_Instance.cs" />
+    <Compile Include="Management\Defaults.cs" />
+    <Compile Include="Management\IdDistributor.cs" />
+    <Compile Include="Management\Level.cs" />
+    <Compile Include="Management\OutboxActivation.cs" />
+    <Compile Include="Management\Room\Storage.cs" />
+    <Compile Include="Management\Room\StorageChannel.cs" />
+    <Compile Include="Packet\CostumeItemChange.cs" />
+    <Compile Include="Packet\ItemDestroy.cs" />
+    <Compile Include="Packet\LoginEvent.cs" />
+    <Compile Include="Packet\RoomInfoChange.cs" />
+    <Compile Include="Packet\Test.cs" />
+    <Compile Include="Packet\UserList.cs" />
+    <Compile Include="Script\RuntimeCode.cs" />
+    <Compile Include="Management\Selection.cs" />
+    <Compile Include="Management\Shop.cs" />
+    <Compile Include="Modules.cs" />
+    <Compile Include="Packet\CashShopDepot.cs" />
+    <Compile Include="Packet\ChangeChannel.cs" />
+    <Compile Include="Packet\Custom.cs" />
+    <Compile Include="Packet\GameInfo.cs" />
+    <Compile Include="Packet\Greeting.cs" />
+    <Compile Include="Packet\ItemChange.cs" />
+    <Compile Include="Packet\ItemExpired.cs" />
+    <Compile Include="Packet\ItemProcess.cs" />
+    <Compile Include="Packet\ItemShop.cs" />
+    <Compile Include="Packet\JoinRoom.cs" />
+    <Compile Include="Packet\LeaveRoom.cs" />
+    <Compile Include="Packet\LevelUp.cs" />
+    <Compile Include="Packet\KeepAlive.cs" />
+    <Compile Include="Packet\PlayerList.cs" />
+    <Compile Include="Packet\RoomList.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QA.cs" />
+    <Compile Include="Script\IOutboxActivation.cs" />
+    <Compile Include="Script\Util.cs" />
+    <Compile Include="Server\Core.cs" />
+    <Compile Include="Server\PacketFactory.cs" />
+    <Compile Include="Server\UDP.cs" />
+    <Compile Include="Management\WarRock.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <Compile Include="Packet\Chat.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Parity.Base\Parity.Base.csproj">
+      <Project>{ef4a75f1-1af2-4452-af39-fff326f5e0a0}</Project>
+      <Name>Parity.Base</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Parity.DataStore\Parity.DataStore.csproj">
+      <Project>{701e571f-6f3b-4c7f-bbb3-e818f155ca67}</Project>
+      <Name>Parity.DataStore</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Parity.GameDetails\Parity.GameDetails.csproj">
+      <Project>{7e9d1612-2126-4864-a7cf-225e6f8b887e}</Project>
+      <Name>Parity.GameDetails</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Parity.Kernel\Parity.Kernel.csproj">
+      <Project>{2a90d378-93a2-407c-b7d5-1360484a81e8}</Project>
+      <Name>Parity.Kernel</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Parity.LowLevel\Parity.LowLevel.vcxproj">
+      <Project>{1a1a33a8-8d7c-4d17-a08f-400ff88729f6}</Project>
+      <Name>Parity.LowLevel</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Parity.Net\Parity.Net.csproj">
+      <Project>{62c2c5a8-45cb-4efc-9d57-235652588100}</Project>
+      <Name>Parity.Net</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\Release\Config\gameServer.xml" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

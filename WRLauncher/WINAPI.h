@@ -1,0 +1,5 @@
+
+
+void* GetFunc(char* name)
+{
+}

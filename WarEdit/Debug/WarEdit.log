@@ -1,0 +1,3 @@
+﻿  main.cpp
+wcrt.lib(_initterm.obj) : warning LNK4254: Abschnitt ".CRT" (40000040) in ".data" (C0000040) mit verschiedenen Attributen zusammengef³hrt
+  WarEdit.vcxproj -> E:\dev\visual studio\ParityProject\Debug\WarEdit.exe

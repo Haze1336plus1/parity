@@ -1,0 +1,8 @@
+E:\dev\visual studio\ParityProject\Parity.DataStore\bin\Release\Parity.DS.dll
+E:\dev\visual studio\ParityProject\Parity.DataStore\bin\Release\Parity.DS.pdb
+E:\dev\visual studio\ParityProject\Parity.DataStore\bin\Release\MySql.Data.dll
+E:\dev\visual studio\ParityProject\Parity.DataStore\bin\Release\Parity.Base.dll
+E:\dev\visual studio\ParityProject\Parity.DataStore\bin\Release\Parity.Base.pdb
+E:\dev\visual studio\ParityProject\Parity.DataStore\obj\Release\Parity.DataStore.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\Parity.DataStore\obj\Release\Parity.DS.dll
+E:\dev\visual studio\ParityProject\Parity.DataStore\obj\Release\Parity.DS.pdb

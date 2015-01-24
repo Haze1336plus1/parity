@@ -1,0 +1,16 @@
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.ManagementConsole.exe.config
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.ManagementConsole.exe
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.ManagementConsole.pdb
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.Base.dll
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.Net.dll
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.Base.pdb
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.Net.pdb
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\obj\Debug\Parity.ManagementConsole.csprojResolveAssemblyReference.cache
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\obj\Debug\Parity.ManagementConsole.exe
+F:\dev\visual studio\ParityProject\Parity.ManagementConsole\obj\Debug\Parity.ManagementConsole.pdb
+E:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.ManagementConsole.exe.config
+E:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.ManagementConsole.exe
+E:\dev\visual studio\ParityProject\Parity.ManagementConsole\bin\Debug\Parity.ManagementConsole.pdb
+E:\dev\visual studio\ParityProject\Parity.ManagementConsole\obj\Debug\Parity.ManagementConsole.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\Parity.ManagementConsole\obj\Debug\Parity.ManagementConsole.exe
+E:\dev\visual studio\ParityProject\Parity.ManagementConsole\obj\Debug\Parity.ManagementConsole.pdb

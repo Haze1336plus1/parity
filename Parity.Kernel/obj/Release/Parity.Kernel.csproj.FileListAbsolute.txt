@@ -1,0 +1,14 @@
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.Kernel.dll
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.Kernel.pdb
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.Base.dll
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.DS.dll
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.GameDetails.dll
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.Net.dll
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\MySql.Data.dll
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.Base.pdb
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.DS.pdb
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.GameDetails.pdb
+E:\dev\visual studio\ParityProject\Parity.Kernel\bin\Release\Parity.Net.pdb
+E:\dev\visual studio\ParityProject\Parity.Kernel\obj\Release\Parity.Kernel.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\Parity.Kernel\obj\Release\Parity.Kernel.dll
+E:\dev\visual studio\ParityProject\Parity.Kernel\obj\Release\Parity.Kernel.pdb

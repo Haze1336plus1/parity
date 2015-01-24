@@ -1,0 +1,99 @@
+06.12.2014 18:27:48 [Default @ Log./new] :: -
+Created a new Log
+
+06.12.2014 18:27:51 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:14096
+
+06.12.2014 18:29:36 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+06.12.2014 18:29:38 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:14160
+
+06.12.2014 18:30:27 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+06.12.2014 18:30:28 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:14197
+
+07.12.2014 14:07:45 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:08:21 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:4748
+
+07.12.2014 14:08:21 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:4748, Reason: Handler for OPC 4352 disconnected: Login failed: Unregistered_User
+
+07.12.2014 14:10:46 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:4994
+
+07.12.2014 14:10:46 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:4994, Reason: remote
+
+07.12.2014 14:13:38 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5172
+
+07.12.2014 14:13:38 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5172, Reason: remote
+
+07.12.2014 14:13:45 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5177
+
+07.12.2014 14:13:45 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5177, Reason: remote
+
+07.12.2014 14:15:32 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:15:33 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5296
+
+07.12.2014 14:15:33 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5296, Reason: remote
+
+07.12.2014 14:15:53 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5321
+
+07.12.2014 14:15:53 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5321, Reason: remote
+
+07.12.2014 14:15:58 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5327
+
+07.12.2014 14:15:58 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5327, Reason: remote
+
+07.12.2014 14:19:44 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:19:49 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5540
+
+07.12.2014 14:19:49 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5540, Reason: remote
+
+07.12.2014 14:21:18 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:21:20 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5610
+
+07.12.2014 14:21:20 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5610, Reason: remote
+
+07.12.2014 14:23:39 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:23:40 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5686
+
+07.12.2014 14:23:40 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5686, Reason: remote
+
+07.12.2014 14:23:46 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5688
+
+07.12.2014 14:23:46 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5688, Reason: remote
+

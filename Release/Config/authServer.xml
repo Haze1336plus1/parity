@@ -1,0 +1,41 @@
+<!--
+	Parity Project AUTH Server Configuration File
+-->
+<Auth>
+	<!-- Server -->
+	<Server>
+		<Address>127.0.0.1</Address><!-- string, default: 127.0.0.1 -->
+		<Port>5330</Port><!-- ushort, default: 5330 -->
+	</Server>
+	<!-- Remote Server for client-requesting-files -->
+	<RemoteServer>
+		<Address>127.0.0.1</Address><!-- string, default: 127.0.0.1 -->
+		<Port>5331</Port><!-- ushort, default: 5331 -->
+	</RemoteServer>
+	<!-- Patch (required for launcher and updater) -->
+	<!--
+		<Patch
+			Format="0"
+			Launcher="0"
+			Updater="0"
+			Client="0"
+			Sub="0"
+			Option="0"
+			PatchSrv="http://localhost/" />
+	-->
+	<Patch
+		PatchSrv="http://itemman.local.turtledev.net/update/"
+		Version="0" />
+	<ServerList>
+		<Server ID="1" Name="Parity Server">
+			<Host>
+				<Address>127.0.0.1</Address><!-- string, default: 127.0.0.1 -->
+				<Port>5340</Port><!-- ushort, default: 5340 -->
+			</Host>
+		</Server>
+	</ServerList>
+	<!-- Not required yet, maybe in a later rev -->
+	<RemoteFile>
+		<File Map="netcode" File="netbranch.dat" />
+	</RemoteFile>
+</Auth>

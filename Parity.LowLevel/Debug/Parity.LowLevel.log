@@ -1,0 +1,15 @@
+﻿Der Buildvorgang wurde am 08.07.2014 19:38:36 gestartet.
+     1>Projekt "E:\dev\visual studio\ParityProject\Parity.LowLevel\Parity.LowLevel.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\dev\visual studio\ParityProject\\Release\Lib\Parity.LowLevel.dll" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\dev\visual studio\ParityProject\\Release\Lib\Parity.LowLevel.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\CRC32.obj
+         Debug\Parit.LowLevel.WRBin.obj
+         Debug\Stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Parity.LowLevel.vcxproj -> E:\dev\visual studio\ParityProject\\Release\Lib\Parity.LowLevel.dll
+     1>Die Erstellung des Projekts "E:\dev\visual studio\ParityProject\Parity.LowLevel\Parity.LowLevel.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.38

@@ -1,0 +1,15 @@
+F:\dev\visual studio\ParityProject\Release\Parity.Game.exe.config
+F:\dev\visual studio\ParityProject\Release\Parity.Game.exe
+F:\dev\visual studio\ParityProject\Release\Parity.Game.pdb
+F:\dev\visual studio\ParityProject\Parity.Game\obj\Debug\Parity.Game.csprojResolveAssemblyReference.cache
+F:\dev\visual studio\ParityProject\Parity.Game\obj\Debug\Parity.Game.exe
+F:\dev\visual studio\ParityProject\Parity.Game\obj\Debug\Parity.Game.pdb
+E:\BACKUP OLD\F\dev\visual studio\ParityProject\Release\Parity.Game.exe.config
+E:\BACKUP OLD\F\dev\visual studio\ParityProject\Parity.Game\obj\Debug\Parity.Game.exe
+E:\BACKUP OLD\F\dev\visual studio\ParityProject\Parity.Game\obj\Debug\Parity.Game.pdb
+E:\dev\visual studio\ParityProject\Release\Parity.Game.exe.config
+E:\dev\visual studio\ParityProject\Parity.Game\obj\Debug\Parity.Game.exe
+E:\dev\visual studio\ParityProject\Parity.Game\obj\Debug\Parity.Game.pdb
+E:\dev\visual studio\ParityProject\Release\Parity.Game.exe
+E:\dev\visual studio\ParityProject\Release\Parity.Game.pdb
+E:\dev\visual studio\ParityProject\Parity.Game\obj\Debug\Parity.Game.csprojResolveAssemblyReference.cache

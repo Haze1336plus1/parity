@@ -1,0 +1,6 @@
+<Override>
+	<!-- comment out a override-property to use default -->
+	<Port.Login>5330</Port.Login>
+	<Port.Game>5340</Port.Game>
+	<Port.UDP>5350</Port.UDP> <!-- second udp port (5351) automatically calculated -->
+</Override>

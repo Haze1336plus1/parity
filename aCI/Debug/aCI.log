@@ -1,0 +1,15 @@
+﻿Der Buildvorgang wurde am 01.10.2014 15:39:51 gestartet.
+     1>Projekt "E:\dev\visual studio\ParityProject\aCI\aCI.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         E:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdInc.h" /Fp"Debug\aCI.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         E:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Release\Client\aCI.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\Release\Client\aCI.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Release\Client\aCI.lib" /MACHINE:X86 /DLL Debug\main.obj
+         Debug\StdInc.obj
+         aCI.vcxproj -> E:\dev\visual studio\ParityProject\aCI\..\Release\Client\aCI.dll
+     1>Die Erstellung des Projekts "E:\dev\visual studio\ParityProject\aCI\aCI.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:01.20

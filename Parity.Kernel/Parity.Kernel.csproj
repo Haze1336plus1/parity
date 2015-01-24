@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2A90D378-93A2-407C-B7D5-1360484A81E8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Parity.Kernel</RootNamespace>
+    <AssemblyName>Parity.Kernel</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Release\Lib\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config\Auth.cs" />
+    <Compile Include="Config\cGame.cs" />
+    <Compile Include="Config\Game.cs" />
+    <Compile Include="Config\cRate.cs" />
+    <Compile Include="Config\cServer.cs" />
+    <Compile Include="Config\cServerListServer.cs" />
+    <Compile Include="Config\cVersion.cs" />
+    <Compile Include="Config\Monitor.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ServerBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Parity.Base\Parity.Base.csproj">
+      <Project>{ef4a75f1-1af2-4452-af39-fff326f5e0a0}</Project>
+      <Name>Parity.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Parity.DataStore\Parity.DataStore.csproj">
+      <Project>{701e571f-6f3b-4c7f-bbb3-e818f155ca67}</Project>
+      <Name>Parity.DataStore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Parity.GameDetails\Parity.GameDetails.csproj">
+      <Project>{7e9d1612-2126-4864-a7cf-225e6f8b887e}</Project>
+      <Name>Parity.GameDetails</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Parity.Net\Parity.Net.csproj">
+      <Project>{62c2c5a8-45cb-4efc-9d57-235652588100}</Project>
+      <Name>Parity.Net</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

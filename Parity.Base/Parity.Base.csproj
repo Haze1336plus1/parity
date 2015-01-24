@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF4A75F1-1AF2-4452-AF39-FFF326F5E0A0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Parity.Base</RootNamespace>
+    <AssemblyName>Parity.Base</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Release\Lib\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App\AES.cs" />
+    <Compile Include="App\ArrayHelp.cs" />
+    <Compile Include="App\CRC32.cs" />
+    <Compile Include="App\Enumerizer.cs" />
+    <Compile Include="App\FlagList.cs" />
+    <Compile Include="App\MD5.cs" />
+    <Compile Include="App\Random.cs" />
+    <Compile Include="App\Time.cs" />
+    <Compile Include="Code\RoomJoin.cs" />
+    <Compile Include="Enum\PlayerLimit.cs" />
+    <Compile Include="Enum\RoomInfoChangeAction.cs" />
+    <Compile Include="Enum\UserListFilter.cs" />
+    <Compile Include="Exception\CustomException.cs" />
+    <Compile Include="Exception\CustomFlags.cs" />
+    <Compile Include="Enum\AuthLevel.cs" />
+    <Compile Include="Enum\CashShopDepotError.cs" />
+    <Compile Include="Enum\CommandInvoker.cs" />
+    <Compile Include="Enum\ItemChangeAction.cs" />
+    <Compile Include="Enum\ItemshopAction.cs" />
+    <Compile Include="Enum\PurchaseError.cs" />
+    <Compile Include="Event\PipeDataReceived.cs" />
+    <Compile Include="Extension\Array.cs" />
+    <Compile Include="Extension\_Color.cs" />
+    <Compile Include="Layout\CommandInvoker.cs" />
+    <Compile Include="Event\ConfigMonitorFileChanged.cs" />
+    <Compile Include="Enum\ChatChannel.cs" />
+    <Compile Include="Enum\VirtualGameState.cs" />
+    <Compile Include="Layout\EventDetails.cs" />
+    <Compile Include="Layout\ShopItem.cs" />
+    <Compile Include="Pair.cs" />
+    <Compile Include="Types.cs" />
+    <Compile Include="App\XMLRewriter.cs" />
+    <Compile Include="Code\GameInfo.cs" />
+    <Compile Include="Code\Login.cs" />
+    <Compile Include="Compile.cs" />
+    <Compile Include="Decision.cs" />
+    <Compile Include="Enum\BattleClass.cs" />
+    <Compile Include="Enum\Channel.cs" />
+    <Compile Include="Enum\DamageType.cs" />
+    <Compile Include="Enum\Game\Difficulty.cs" />
+    <Compile Include="Enum\Game\LevelLimit.cs" />
+    <Compile Include="Enum\Game\Mode.cs" />
+    <Compile Include="Enum\Game\PingLimit.cs" />
+    <Compile Include="Enum\Game\Status.cs" />
+    <Compile Include="Enum\Game\TimeLimit.cs" />
+    <Compile Include="Enum\Game\Type.cs" />
+    <Compile Include="Enum\Item\Character.cs" />
+    <Compile Include="Enum\Item\Equipment.cs" />
+    <Compile Include="Enum\Item\EquipmentWeapon.cs" />
+    <Compile Include="Enum\Item\Etc.cs" />
+    <Compile Include="Enum\Item\Resource.cs" />
+    <Compile Include="Enum\Item\Type.cs" />
+    <Compile Include="Enum\Item\Weapon.cs" />
+    <Compile Include="Enum\LoginError.cs" />
+    <Compile Include="Enum\LoggingLevel.cs" />
+    <Compile Include="Enum\PacketUDP.cs" />
+    <Compile Include="Enum\PaymentPeriod.cs" />
+    <Compile Include="Enum\Premium.cs" />
+    <Compile Include="Enum\Team.cs" />
+    <Compile Include="Extension\Linq.cs" />
+    <Compile Include="Extension\String.cs" />
+    <Compile Include="IO.cs" />
+    <Compile Include="Layout\AccountSession.cs" />
+    <Compile Include="Layout\Server.cs" />
+    <Compile Include="Layout\VehicleSeat.cs" />
+    <Compile Include="Log.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Thread\Lockable.cs" />
+    <Compile Include="Layout\LogChannel.cs" />
+    <Compile Include="Thread\TimedAction.cs" />
+    <Compile Include="Thread\Timer.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

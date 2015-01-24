@@ -1,0 +1,16 @@
+D:\Development\WarRockSVN\WarField.GameDetails\bin\Debug\WarField.GameDetails.dll
+D:\Development\WarRockSVN\WarField.GameDetails\bin\Debug\WarField.GameDetails.pdb
+D:\Development\WarRockSVN\WarField.GameDetails\bin\Debug\WarField.Gear.dll
+D:\Development\WarRockSVN\WarField.GameDetails\bin\Debug\MySql.Data.dll
+D:\Development\WarRockSVN\WarField.GameDetails\bin\Debug\WarField.Gear.pdb
+D:\Development\WarRockSVN\WarField.GameDetails\obj\Debug\WarField.GameDetails.dll
+D:\Development\WarRockSVN\WarField.GameDetails\obj\Debug\WarField.GameDetails.pdb
+D:\Development\WarRockSVN\WarField.GameDetails\obj\Debug\WarField.GameDetails.csprojResolveAssemblyReference.cache
+F:\dev\visual studio\WarFight Private Server\WarField.GameDetails\bin\Debug\WarField.GameDetails.dll
+F:\dev\visual studio\WarFight Private Server\WarField.GameDetails\bin\Debug\WarField.GameDetails.pdb
+F:\dev\visual studio\WarFight Private Server\WarField.GameDetails\bin\Debug\WarField.Gear.dll
+F:\dev\visual studio\WarFight Private Server\WarField.GameDetails\bin\Debug\MySql.Data.dll
+F:\dev\visual studio\WarFight Private Server\WarField.GameDetails\bin\Debug\WarField.Gear.pdb
+F:\dev\visual studio\WarFight Private Server\WarField.GameDetails\obj\Debug\WarField.GameDetails.csprojResolveAssemblyReference.cache
+F:\dev\visual studio\WarFight Private Server\WarField.GameDetails\obj\Debug\WarField.GameDetails.dll
+F:\dev\visual studio\WarFight Private Server\WarField.GameDetails\obj\Debug\WarField.GameDetails.pdb

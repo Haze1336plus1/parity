@@ -1,0 +1,38 @@
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WRDevTool.exe.config
+F:\dev\visual studio\WarFight Private Server\WRDevTool\obj\Debug\WRDevTool.csprojResolveAssemblyReference.cache
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WRDevTool.exe
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WRDevTool.pdb
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WarField.Data.dll
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WarField.GameDetails.dll
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WarField.Gear.dll
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WarField.IO.dll
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\MySql.Data.dll
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WarField.Data.pdb
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WarField.GameDetails.pdb
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WarField.Gear.pdb
+F:\dev\visual studio\WarFight Private Server\WRDevTool\bin\Debug\WarField.IO.pdb
+F:\dev\visual studio\WarFight Private Server\WRDevTool\obj\Debug\WRDevTool.exe
+F:\dev\visual studio\WarFight Private Server\WRDevTool\obj\Debug\WRDevTool.pdb
+F:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\WRDevTool.exe.config
+F:\dev\visual studio\ParityProject\WRDevTool\obj\Debug\WRDevTool.exe
+F:\dev\visual studio\ParityProject\WRDevTool\obj\Debug\WRDevTool.pdb
+F:\dev\visual studio\ParityProject\WRDevTool\obj\Debug\WRDevTool.csprojResolveAssemblyReference.cache
+F:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\WRDevTool.exe
+F:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\WRDevTool.pdb
+F:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\Parity.Base.dll
+F:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\Parity.GameDetails.dll
+F:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\Parity.Base.pdb
+F:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\Parity.GameDetails.pdb
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\WRDevTool.exe.config
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\WRDevTool.exe
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\WRDevTool.pdb
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\Parity.Base.dll
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\Parity.GameDetails.dll
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\Parity.Base.pdb
+E:\dev\visual studio\ParityProject\WRDevTool\bin\Debug\Parity.GameDetails.pdb
+E:\dev\visual studio\ParityProject\WRDevTool\obj\Debug\WRDevTool.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\WRDevTool\obj\Debug\WRDevTool.exe
+E:\dev\visual studio\ParityProject\WRDevTool\obj\Debug\WRDevTool.pdb
+E:\dev\visual studio\ParityProject\Release\DevTool\WRDevTool.exe.config
+E:\dev\visual studio\ParityProject\Release\DevTool\WRDevTool.exe
+E:\dev\visual studio\ParityProject\Release\DevTool\WRDevTool.pdb

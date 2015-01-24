@@ -1,0 +1,6 @@
+E:\dev\visual studio\ParityProject\Release\Parity.Auth.exe.config
+E:\dev\visual studio\ParityProject\Release\Parity.Auth.exe
+E:\dev\visual studio\ParityProject\Release\Parity.Auth.pdb
+E:\dev\visual studio\ParityProject\Parity.Auth\obj\Release\Parity.Auth.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\Parity.Auth\obj\Release\Parity.Auth.exe
+E:\dev\visual studio\ParityProject\Parity.Auth\obj\Release\Parity.Auth.pdb

@@ -1,0 +1,7 @@
+E:\dev\visual studio\ParityProject\Parity.Net\bin\Release\Parity.Net.dll
+E:\dev\visual studio\ParityProject\Parity.Net\bin\Release\Parity.Net.pdb
+E:\dev\visual studio\ParityProject\Parity.Net\bin\Release\Parity.Base.dll
+E:\dev\visual studio\ParityProject\Parity.Net\bin\Release\Parity.Base.pdb
+E:\dev\visual studio\ParityProject\Parity.Net\obj\Release\Parity.Net.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\Parity.Net\obj\Release\Parity.Net.dll
+E:\dev\visual studio\ParityProject\Parity.Net\obj\Release\Parity.Net.pdb

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <!--Switches-->
+  <CopyAttributes Enabled="true" />
+  <UnionDuplicates Enabled="false" />
+  <Debug Enabled="1" />
+  <Internalize Enabled="false" />
+  <MergeXml Enabled="false" />
+  <!--Signing-->
+  <Sign Enabled="false" Delay="false"></Sign>
+  <!--Logging-->
+  <Log Enabled="false"></Log>
+  <!--Assemblies-->
+  <Assemblies>
+    <Assembly>E:\dev\visual studio\ParityProject\Release\Sniffer\PacketSniffer.exe</Assembly>
+    <Assembly>E:\dev\visual studio\ParityProject\Release\Sniffer\Parity.Base.dll</Assembly>
+    <Assembly>E:\dev\visual studio\ParityProject\Release\Sniffer\Parity.Net.dll</Assembly>
+    <Assembly>E:\dev\visual studio\ParityProject\Release\Sniffer\SharpPcap.dll</Assembly>
+    <Assembly>E:\dev\visual studio\ParityProject\Release\Sniffer\PacketDotNet.dll</Assembly>
+    <Primary>E:\dev\visual studio\ParityProject\Release\Sniffer\PacketSniffer.exe</Primary>
+  </Assemblies>
+  <!--Output-->
+  <OutputAssembly>E:\dev\visual studio\ParityProject\Release\Sniffer\PacketSnifferM.exe</OutputAssembly>
+  <!--.NET Framework-->
+  <Framework>.NET Framework 4.5 Full</Framework>
+  <!--Merge Engine-->
+  <Engine Name="ILMerge" />
+</Settings>

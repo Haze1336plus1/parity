@@ -1,0 +1,19 @@
+<Config>
+	<FCLD>
+		<exception Type="StartsWith">\data\hshield</exception>
+		<exception Type="StartsWith">\filedb</exception>
+		<exception Type="StartsWith">\screenshot</exception>
+		<exception Type="StartsWith">\animation.bak</exception>
+		<exception Type="Equals">\system\WarRock_Ver1.ini</exception>
+		<exception Type="Equals">\system\Engine.ini</exception>
+		<exception Type="EndsWith">.tga</exception>
+		<exception Type="EndsWith">.dds</exception>
+		<exception Type="EndsWith">.bak</exception>
+		<exception Type="EndsWith">.backup</exception>
+		<exception Type="EndsWith">.orig</exception>
+		<exception Type="EndsWith">.zip</exception>
+		<exception Type="EndsWith">.rar</exception>
+		<exception Type="EndsWith">.txt</exception>
+		<template>46434C4400000000CDCC8C3F00000000</template>
+	</FCLD>
+</Config>

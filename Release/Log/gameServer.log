@@ -1,0 +1,117 @@
+06.12.2014 18:27:46 [Default @ Log./new] :: -
+Created a new Log
+
+06.12.2014 18:29:07 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+06.12.2014 18:29:36 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+06.12.2014 18:30:27 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:07:45 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:11:14 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5026
+
+07.12.2014 14:11:45 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#CA01' into Inventory '#1:AmazingTurtle', 15 days for 12000 dinars, successful
+
+07.12.2014 14:11:54 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#DF96' into Inventory '#1:AmazingTurtle', 7 days for 8250 dinars, successful
+
+07.12.2014 14:12:01 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#DF73' into Inventory '#1:AmazingTurtle', 7 days for 8250 dinars, successful
+
+07.12.2014 14:12:08 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#DD06' into Inventory '#1:AmazingTurtle', 7 days for 1000 dinars, successful
+
+07.12.2014 14:12:12 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#D101' into Inventory '#1:AmazingTurtle', 7 days for 2500 dinars, successful
+
+07.12.2014 14:12:16 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#DS05' into Inventory '#1:AmazingTurtle', 7 days for 5000 dinars, successful
+
+07.12.2014 14:12:20 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#DS01' into Inventory '#1:AmazingTurtle', 7 days for 2000 dinars, successful
+
+07.12.2014 14:12:28 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#DB03' into Inventory '#1:AmazingTurtle', 30 days for 10000 dinars, successful
+
+07.12.2014 14:12:34 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#DV01' into Inventory '#1:AmazingTurtle', 7 days for 5000 dinars, successful
+
+07.12.2014 14:13:02 [shop @ ItemProcess.Purchase] :: Purchase (dinars)
+Purcahse '#DH02' into Inventory '#1:AmazingTurtle', 7 days for 6250 dinars, successful
+
+07.12.2014 14:13:13 [shop @ CashProcess.Purchase] :: Purchase (credits)
+Moving '#32:DC31' into Outbox '#1:AmazingTurtle', 30 days for 2700 credits, successful
+
+07.12.2014 14:13:13 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5026, Reason: Handler 0 for 'AmazingTurtle' (#1) bad (not found), packet: '0'
+
+07.12.2014 14:13:38 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5173
+
+07.12.2014 14:13:44 [shop @ CashProcess.Purchase] :: Purchase (credits)
+Moving '#32:DC31' into Outbox '#1:AmazingTurtle', 30 days for 2700 credits, successful
+
+07.12.2014 14:13:44 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5173, Reason: Handler 0 for 'AmazingTurtle' (#1) bad (not found), packet: '0'
+
+07.12.2014 14:13:46 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5181
+
+07.12.2014 14:15:32 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:15:34 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5297
+
+07.12.2014 14:15:41 [shop @ CashProcess.Purchase] :: Purchase (credits)
+Moving '#32:DC31' into Outbox '#1:AmazingTurtle', 30 days for 2700 credits, successful
+
+07.12.2014 14:15:44 [shop @ CashShopDepot.Handle] :: -
+Activating OutboxItem DC31 (90 days)
+
+07.12.2014 14:15:47 [shop @ CashShopDepot.Handle] :: -
+Activating OutboxItem DB14 (30 days)
+
+07.12.2014 14:15:52 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5297, Reason: Handler 29970 for 'AmazingTurtle' (#1) bad, reason: 'ItemCode DS05-DS01 related ItemInformation not listed'
+
+07.12.2014 14:15:53 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5324
+
+07.12.2014 14:15:57 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5324, Reason: Handler 29970 for 'AmazingTurtle' (#1) bad, reason: 'ItemCode DS05-DS01 related ItemInformation not listed'
+
+07.12.2014 14:15:59 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5328
+
+07.12.2014 14:19:44 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:19:51 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5541
+
+07.12.2014 14:21:18 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:21:21 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5611
+
+07.12.2014 14:23:36 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+07.12.2014 14:23:40 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5687
+
+07.12.2014 14:23:45 [connection @ Core.Server_ClientDisconnected] :: Disconnected
+127.0.0.1:5687, Reason: Handler 29970 for 'AmazingTurtle' (#1) bad
+
+07.12.2014 14:23:47 [connection @ Core.Server_ClientAccepted] :: Connected
+127.0.0.1:5689
+

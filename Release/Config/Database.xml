@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Database Host="127.0.0.1" Port="3306"> <!-- string, ushort -->
+	<Auth Username="root" Password="" /> <!-- string, string -->
+	<Manager Database="parity" GameDatabase="parity_game1" PoolSize="16" /> <!-- string, byte -->
+</Database>

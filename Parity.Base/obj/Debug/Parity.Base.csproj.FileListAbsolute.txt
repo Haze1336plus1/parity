@@ -1,0 +1,14 @@
+F:\dev\visual studio\ParityProject\Parity.Base\bin\Debug\Parity.Base.dll
+F:\dev\visual studio\ParityProject\Parity.Base\bin\Debug\Parity.Base.pdb
+F:\dev\visual studio\ParityProject\Parity.Base\obj\Debug\Parity.Base.dll
+F:\dev\visual studio\ParityProject\Parity.Base\obj\Debug\Parity.Base.pdb
+F:\dev\visual studio\ParityProject\Release\Parity.Base.dll
+F:\dev\visual studio\ParityProject\Release\Parity.Base.pdb
+F:\dev\visual studio\ParityProject\Parity.Base\obj\Debug\Parity.Base.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\Release\Parity.Base.dll
+E:\dev\visual studio\ParityProject\Release\Parity.Base.pdb
+E:\dev\visual studio\ParityProject\Parity.Base\obj\Debug\Parity.Base.dll
+E:\dev\visual studio\ParityProject\Parity.Base\obj\Debug\Parity.Base.pdb
+E:\dev\visual studio\ParityProject\Parity.Base\obj\Debug\Parity.Base.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\Release\Lib\Parity.Base.dll
+E:\dev\visual studio\ParityProject\Release\Lib\Parity.Base.pdb

@@ -1,0 +1,12 @@
+F:\dev\visual studio\ParityProject\SharpExt\bin\Debug\SharpExt.dll
+F:\dev\visual studio\ParityProject\SharpExt\bin\Debug\SharpExt.pdb
+F:\dev\visual studio\ParityProject\SharpExt\obj\Debug\SharpExt.dll
+F:\dev\visual studio\ParityProject\SharpExt\obj\Debug\SharpExt.pdb
+F:\dev\visual studio\ParityProject\Release\Client\SharpExt.dll
+F:\dev\visual studio\ParityProject\Release\Client\SharpExt.pdb
+F:\dev\visual studio\ParityProject\SharpExt\obj\Debug\SharpExt.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\Release\Client\SharpExt.dll
+E:\dev\visual studio\ParityProject\Release\Client\SharpExt.pdb
+E:\dev\visual studio\ParityProject\SharpExt\obj\Debug\SharpExt.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\SharpExt\obj\Debug\SharpExt.dll
+E:\dev\visual studio\ParityProject\SharpExt\obj\Debug\SharpExt.pdb

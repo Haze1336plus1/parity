@@ -1,0 +1,14 @@
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\PacketSniffer.exe.config
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\PacketSniffer.exe
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\PacketSniffer.pdb
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\PacketDotNet.dll
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\Parity.Base.dll
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\Parity.Net.dll
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\SharpPcap.dll
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\Parity.Base.pdb
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\Parity.Net.pdb
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\PacketDotNet.xml
+E:\dev\visual studio\ParityProject\PacketSniffer\bin\Release\SharpPcap.xml
+E:\dev\visual studio\ParityProject\PacketSniffer\obj\Release\PacketSniffer.csprojResolveAssemblyReference.cache
+E:\dev\visual studio\ParityProject\PacketSniffer\obj\Release\PacketSniffer.exe
+E:\dev\visual studio\ParityProject\PacketSniffer\obj\Release\PacketSniffer.pdb

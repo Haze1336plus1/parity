@@ -1,0 +1,18 @@
+15.05.2014 11:49:20 [Default @ Log./new] :: -
+Created a new Log
+
+15.05.2014 11:49:20 [Default @ Sniffer./new] :: -
+Opening Device 'rpcap://\Device\NPF_{6A566F59-558E-4867-BBF9-556E599681AE}' ...
+
+15.05.2014 11:49:20 [Default @ Sniffer./new] :: -
+Device opened!
+
+15.05.2014 11:53:37 [Default @ Log./new] :: -
+Opened existing Log (new Session)
+
+15.05.2014 11:53:37 [Default @ Sniffer./new] :: -
+Opening Device 'rpcap://\Device\NPF_{6A566F59-558E-4867-BBF9-556E599681AE}' ...
+
+15.05.2014 11:53:37 [Default @ Sniffer./new] :: -
+Device opened!
+
